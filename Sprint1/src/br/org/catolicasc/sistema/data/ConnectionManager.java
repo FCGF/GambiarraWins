@@ -10,5 +10,5 @@ package br.org.catolicasc.sistema.data;
  * @author ferna
  */
 public class ConnectionManager {
-    
+    private int test = 0;
 }
