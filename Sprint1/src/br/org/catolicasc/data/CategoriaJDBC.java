@@ -82,7 +82,7 @@ public class CategoriaJDBC {
                 String nome = rs.getString("nome");
                 String descricao = rs.getString("descricao");
                 
-                Categoria categorias = new Categoria (id, nome, descricao);
+                categoria = new Categoria (id, nome, descricao);
                 
             }
         } catch (SQLException ex) {           
