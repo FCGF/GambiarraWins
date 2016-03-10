@@ -5,6 +5,7 @@
  */
 package br.org.catolicasc.data;
 
+//import com.mysql.fabric.xmlrpc.Client;
 import br.org.catolicasc.model.Cliente;
 import java.util.List;
 import org.junit.BeforeClass;
