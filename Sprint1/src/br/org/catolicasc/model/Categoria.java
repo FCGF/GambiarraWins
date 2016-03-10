@@ -12,9 +12,15 @@ public class Categoria {
         super();
     }
 
-    public Categoria(int id, String nome, String descricao) {
+    public Categoria(int id) {
         this();
         this.id = id;
+    }
+    
+
+    public Categoria(int id, String nome, String descricao) {
+        this(id);
+        
         this.nome = nome;
         this.descricao = descricao;
     }
