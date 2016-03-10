@@ -98,8 +98,8 @@ public class ProdutoJDBC {
                 int estoque = rs.getInt("estoque");
                 boolean descontinuado = rs.getBoolean("descontinuado");
                 
-                produto = new Produto (id, categoria, nome, preco_unitario,
-                        quantidade, estoque, descontinuado);
+                produto = new Produto (id, categoria, nome, preco_unitario, quantidade, estoque, descontinuado);
+                
                 
             }
         } catch (SQLException ex) {           
@@ -130,8 +130,14 @@ public class ProdutoJDBC {
         try {           
             conn = ConnectionManager.getInstance().getConnection();          
             stmt = conn.prepareStatement(SQL_TO_CREATE, PreparedStatement.RETURN_GENERATED_KEYS);
-            stmt.setString(1, produto.getNome());
-            stmt.setBoolean(2, produto.isDescontinuado());           
+            stmt.setInt(1, produto.getId());
+            stmt.setInt(2, produto.getCategoria().getId());     
+            stmt.setString(3, produto.getNome());
+            stmt.setDouble(4, produto.getPreco_unitario());
+            stmt.setDouble(5, produto.getQuantidade());
+            stmt.setInt(6, produto.getEstoque());
+            stmt.setBoolean(7, produto.isDescontinuado());
+            
             stmt.executeUpdate();          
             ResultSet rs = stmt.getGeneratedKeys();
             
@@ -168,9 +174,9 @@ public class ProdutoJDBC {
         try {           
             conn = ConnectionManager.getInstance().getConnection();         
             stmt = conn.prepareStatement(SQL_TO_UPDATE, PreparedStatement.RETURN_GENERATED_KEYS);
-            stmt.setString(1, produto.getNome());
-            stmt.setInt(2, produto.getId());     
-            stmt.setInt(3, produto.getCategoria().getId());
+            stmt.setInt(1, produto.getId());
+            stmt.setInt(2, produto.getCategoria().getId());     
+            stmt.setString(3, produto.getNome());
             stmt.setDouble(4, produto.getPreco_unitario());
             stmt.setDouble(5, produto.getQuantidade());
             stmt.setInt(6, produto.getEstoque());
