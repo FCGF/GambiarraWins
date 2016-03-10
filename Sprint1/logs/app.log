@@ -1,0 +1,1114 @@
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 40 main - Conectando no banco de dados...
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 44 main - Criando uma instrução (statement)...
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 48 main - Executando uma consulta SQL (Query)...
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 1
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: PENELOPE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: GUINESS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 2
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: NICK
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WAHLBERG
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 3
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ED
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: CHASE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 4
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JENNIFER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DAVIS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 5
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JOHNNY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: LOLLOBRIGIDA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 6
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: BETTE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: NICHOLSON
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 7
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GRACE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MOSTEL
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 8
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MATTHEW
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: JOHANSSON
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 9
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JOE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: SWANK
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 10
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CHRISTIAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: GABLE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 11
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ZERO
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: CAGE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 12
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: KARL
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BERRY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 13
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: UMA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WOOD
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 14
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: VIVIEN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BERGEN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 15
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CUBA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: OLIVIER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 16
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: FRED
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: COSTNER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 17
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: HELEN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: VOIGHT
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 18
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: DAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: TORN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 19
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: BOB
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: FAWCETT
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 20
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: LUCILLE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: TRACY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 21
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: KIRSTEN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: PALTROW
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 22
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ELVIS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MARX
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 23
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: SANDRA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: KILMER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 24
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CAMERON
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: STREEP
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 25
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: KEVIN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BLOOM
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 26
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: RIP
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: CRAWFORD
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 27
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JULIA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MCQUEEN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 28
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: WOODY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HOFFMAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 29
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ALEC
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WAYNE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 30
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: SANDRA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: PECK
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 31
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: SISSY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: SOBIESKI
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 32
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: TIM
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HACKMAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 33
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MILLA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: PECK
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 34
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: AUDREY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: OLIVIER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 35
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JUDY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DEAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 36
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: BURT
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DUKAKIS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 37
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: VAL
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BOLGER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 38
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: TOM
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MCKELLEN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 39
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GOLDIE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BRODY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 40
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JOHNNY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: CAGE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 41
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JODIE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DEGENERES
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 42
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: TOM
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MIRANDA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 43
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: KIRK
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: JOVOVICH
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 44
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: NICK
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: STALLONE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 45
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: REESE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: KILMER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 46
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: PARKER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: GOLDBERG
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 47
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JULIA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BARRYMORE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 48
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: FRANCES
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DAY-LEWIS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 49
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ANNE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: CRONYN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 50
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: NATALIE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HOPKINS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 51
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GARY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: PHOENIX
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 52
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CARMEN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HUNT
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 53
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MENA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: TEMPLE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 54
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: PENELOPE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: PINKETT
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 55
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: FAY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: KILMER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 56
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: DAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HARRIS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 57
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JUDE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: CRUISE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 58
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CHRISTIAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: AKROYD
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 59
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: DUSTIN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: TAUTOU
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 60
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: HENRY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BERRY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 61
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CHRISTIAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: NEESON
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 62
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JAYNE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: NEESON
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 63
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CAMERON
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WRAY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 64
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: RAY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: JOHANSSON
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 65
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ANGELA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HUDSON
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 66
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MARY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: TANDY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 67
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JESSICA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BAILEY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 68
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: RIP
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WINSLET
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 69
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: KENNETH
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: PALTROW
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 70
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MICHELLE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MCCONAUGHEY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 71
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ADAM
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: GRANT
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 72
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: SEAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WILLIAMS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 73
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GARY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: PENN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 74
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MILLA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: KEITEL
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 75
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: BURT
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: POSEY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 76
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ANGELINA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: ASTAIRE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 77
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CARY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MCCONAUGHEY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 78
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GROUCHO
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: SINATRA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 79
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MAE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HOFFMAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 80
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: RALPH
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: CRUZ
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 81
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: SCARLETT
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DAMON
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 82
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: WOODY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: JOLIE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 83
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: BEN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WILLIS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 84
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JAMES
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: PITT
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 85
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MINNIE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: ZELLWEGER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 86
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GREG
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: CHAPLIN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 87
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: SPENCER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: PECK
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 88
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: KENNETH
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: PESCI
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 89
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CHARLIZE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DENCH
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 90
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: SEAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: GUINESS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 91
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CHRISTOPHER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BERRY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 92
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: KIRSTEN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: AKROYD
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 93
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ELLEN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: PRESLEY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 94
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: KENNETH
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: TORN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 95
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: DARYL
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WAHLBERG
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 96
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GENE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WILLIS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 97
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MEG
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HAWKE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 98
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CHRIS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BRIDGES
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 99
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JIM
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MOSTEL
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 100
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: SPENCER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DEPP
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 101
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: SUSAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DAVIS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 102
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: WALTER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: TORN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 103
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MATTHEW
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: LEIGH
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 104
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: PENELOPE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: CRONYN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 105
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: SIDNEY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: CROWE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 106
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GROUCHO
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DUNST
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 107
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GINA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DEGENERES
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 108
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: WARREN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: NOLTE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 109
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: SYLVESTER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DERN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 110
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: SUSAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DAVIS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 111
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CAMERON
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: ZELLWEGER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 112
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: RUSSELL
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BACALL
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 113
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MORGAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HOPKINS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 114
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MORGAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MCDORMAND
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 115
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: HARRISON
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BALE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 116
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: DAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: STREEP
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 117
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: RENEE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: TRACY
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 118
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CUBA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: ALLEN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 119
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: WARREN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: JACKMAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 120
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: PENELOPE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MONROE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 121
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: LIZA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BERGMAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 122
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: SALMA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: NOLTE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 123
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JULIANNE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DENCH
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 124
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: SCARLETT
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BENING
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 125
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ALBERT
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: NOLTE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 126
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: FRANCES
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: TOMEI
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 127
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: KEVIN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: GARLAND
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 128
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CATE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MCQUEEN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 129
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: DARYL
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: CRAWFORD
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 130
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GRETA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: KEITEL
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 131
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JANE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: JACKMAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 132
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ADAM
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HOPPER
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 133
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: RICHARD
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: PENN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 134
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GENE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HOPKINS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 135
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: RITA
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: REYNOLDS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 136
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ED
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MANSFIELD
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 137
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MORGAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WILLIAMS
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 138
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: LUCILLE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DEE
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 139
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: EWAN
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: GOODING
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 140
+2015.02.01 20:57:12 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: WHOOPI
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HURT
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 141
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CATE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HARRIS
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 142
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JADA
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: RYDER
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 143
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: RIVER
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DEAN
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 144
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ANGELA
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WITHERSPOON
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 145
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: KIM
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: ALLEN
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 146
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ALBERT
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: JOHANSSON
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 147
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: FAY
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WINSLET
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 148
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: EMILY
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DEE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 149
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: RUSSELL
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: TEMPLE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 150
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JAYNE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: NOLTE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 151
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GEOFFREY
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HESTON
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 152
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: BEN
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HARRIS
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 153
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MINNIE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: KILMER
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 154
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MERYL
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: GIBSON
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 155
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: IAN
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: TANDY
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 156
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: FAY
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WOOD
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 157
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GRETA
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MALDEN
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 158
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: VIVIEN
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BASINGER
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 159
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: LAURA
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BRODY
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 160
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CHRIS
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DEPP
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 161
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: HARVEY
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HOPE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 162
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: OPRAH
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: KILMER
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 163
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CHRISTOPHER
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WEST
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 164
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: HUMPHREY
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WILLIS
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 165
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: AL
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: GARLAND
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 166
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: NICK
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DEGENERES
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 167
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: LAURENCE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BULLOCK
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 168
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: WILL
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WILSON
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 169
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: KENNETH
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HOFFMAN
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 170
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MENA
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HOPPER
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 171
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: OLYMPIA
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: PFEIFFER
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 172
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GROUCHO
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WILLIAMS
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 173
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ALAN
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DREYFUSS
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 174
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MICHAEL
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BENING
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 175
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: WILLIAM
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: HACKMAN
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 176
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JON
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: CHASE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 177
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GENE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MCKELLEN
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 178
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: LISA
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: MONROE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 179
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ED
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: GUINESS
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 180
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JEFF
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: SILVERSTONE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 181
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MATTHEW
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: CARREY
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 182
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: DEBBIE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: AKROYD
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 183
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: RUSSELL
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: CLOSE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 184
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: HUMPHREY
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: GARLAND
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 185
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MICHAEL
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BOLGER
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 186
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JULIA
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: ZELLWEGER
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 187
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: RENEE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BALL
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 188
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: ROCK
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: DUKAKIS
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 189
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: CUBA
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BIRCH
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 190
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: AUDREY
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: BAILEY
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 191
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: GREGORY
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: GOODING
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 192
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JOHN
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: SUVARI
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 193
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: BURT
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: TEMPLE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 194
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MERYL
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: ALLEN
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 195
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JAYNE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: SILVERSTONE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 196
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: BELA
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WALKEN
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 197
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: REESE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: WEST
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 198
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: MARY
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: KEITEL
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 199
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: JULIA
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: FAWCETT
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - ID: 200
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - , Primeiro nome: THORA
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - , Ultimo Nome: TEMPLE
+2015.02.01 20:57:13 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - , Última Atualização: 2006-02-15 04:34:33.0
+2015.02.02 21:28:42 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 40 main - Conectando no banco de dados...
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 44 main - Criando uma instrução (statement)...
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 48 main - Executando uma consulta SQL (Query)...
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 59 main - ID: 1
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - Nome: SUPERMERCADO XALINGO LTDA
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - Ativo: true
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - -------------------------------------
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 59 main - ID: 2
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - Nome: DISTRIBUIDORA DOMINGOS LTDA
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - Ativo: true
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - -------------------------------------
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 59 main - ID: 3
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - Nome: ATACADO MINUANO LTDA
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - Ativo: false
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - -------------------------------------
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 59 main - ID: 4
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - Nome: INDUSTRIA DE LATICINIOS VAQUINHA LTDA
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - Ativo: false
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - -------------------------------------
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 59 main - ID: 5
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - Nome: ALMIR PEREIRA
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - Ativo: true
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - -------------------------------------
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 59 main - ID: 6
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - Nome: CARLOS DOS SANTOS
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - Ativo: true
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - -------------------------------------
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 59 main - ID: 7
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - Nome: OSMAR DA ROCHA
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - Ativo: false
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - -------------------------------------
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 59 main - ID: 8
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - Nome: MARIA CECÍLIA
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - Ativo: true
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - -------------------------------------
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 59 main - ID: 9
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - Nome: MADEIREIRA SANTA ISABEL LTDA
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - Ativo: true
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - -------------------------------------
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 59 main - ID: 10
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 60 main - Nome: RODOLFO ALVES
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - Ativo: true
+2015.02.02 21:28:43 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - -------------------------------------
+2015.02.02 21:29:00 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 40 main - Conectando no banco de dados...
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 44 main - Criando uma instrução (statement)...
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 48 main - Executando uma consulta SQL (Query)...
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 51 main - -------------------------------------
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - ID: 1
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - Nome: SUPERMERCADO XALINGO LTDA
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - Ativo: true
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 64 main - -------------------------------------
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - ID: 2
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - Nome: DISTRIBUIDORA DOMINGOS LTDA
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - Ativo: true
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 64 main - -------------------------------------
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - ID: 3
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - Nome: ATACADO MINUANO LTDA
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - Ativo: false
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 64 main - -------------------------------------
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - ID: 4
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - Nome: INDUSTRIA DE LATICINIOS VAQUINHA LTDA
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - Ativo: false
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 64 main - -------------------------------------
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - ID: 5
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - Nome: ALMIR PEREIRA
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - Ativo: true
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 64 main - -------------------------------------
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - ID: 6
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - Nome: CARLOS DOS SANTOS
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - Ativo: true
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 64 main - -------------------------------------
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - ID: 7
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - Nome: OSMAR DA ROCHA
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - Ativo: false
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 64 main - -------------------------------------
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - ID: 8
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - Nome: MARIA CECÍLIA
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - Ativo: true
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 64 main - -------------------------------------
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - ID: 9
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - Nome: MADEIREIRA SANTA ISABEL LTDA
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - Ativo: true
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 64 main - -------------------------------------
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 61 main - ID: 10
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 62 main - Nome: RODOLFO ALVES
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 63 main - Ativo: true
+2015.02.02 21:29:01 BRST [main] INFO  br.org.catolicasc.exemplo.TestarConexao 64 main - -------------------------------------
+2015.03.02 21:20:55 BRT [main] ERROR br.org.catolicasc.cadastro.data.ClienteJdbc 111 criar - Erro ao executar SQL [Criar]: Column 'id' not found. java.sql.SQLException: Column 'id' not found.
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:996) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:935) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:924) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:870) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ResultSetImpl.findColumn(ResultSetImpl.java:1064) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ResultSetImpl.getInt(ResultSetImpl.java:2566) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.ClienteJdbc.criar(ClienteJdbc.java:108) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ClienteJdbcTest.testCriar(ClienteJdbcTest.java:56) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_72]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[?:1.7.0_72]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_72]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_72]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:45) [junit-4.10.jar:?]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15) [junit-4.10.jar:?]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:42) [junit-4.10.jar:?]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20) [junit-4.10.jar:?]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28) [junit-4.10.jar:?]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:30) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:263) [junit-4.10.jar:?]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:68) [junit-4.10.jar:?]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:47) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:231) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:50) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:300) [junit-4.10.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnit4TestMethodAdapter.run(JUnit4TestMethodAdapter.java:105) [ant-junit4.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:523) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1063) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:914) [ant-junit.jar:?]
+
+2015.03.02 21:23:40 BRT [main] ERROR br.org.catolicasc.cadastro.data.ClienteJdbc 111 criar - Erro ao executar SQL [Criar]: Column 'id' not found. java.sql.SQLException: Column 'id' not found.
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:996) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:935) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:924) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:870) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ResultSetImpl.findColumn(ResultSetImpl.java:1064) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ResultSetImpl.getInt(ResultSetImpl.java:2566) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.ClienteJdbc.criar(ClienteJdbc.java:108) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ClienteJdbcTest.testCriar(ClienteJdbcTest.java:56) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_72]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[?:1.7.0_72]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_72]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_72]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:45) [junit-4.10.jar:?]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15) [junit-4.10.jar:?]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:42) [junit-4.10.jar:?]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20) [junit-4.10.jar:?]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28) [junit-4.10.jar:?]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:30) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:263) [junit-4.10.jar:?]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:68) [junit-4.10.jar:?]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:47) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:231) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:50) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:300) [junit-4.10.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnit4TestMethodAdapter.run(JUnit4TestMethodAdapter.java:105) [ant-junit4.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:523) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1063) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:914) [ant-junit.jar:?]
+
+2015.03.02 21:25:44 BRT [main] ERROR br.org.catolicasc.cadastro.data.ClienteJdbc 151 alterar - Erro ao executar SQL [Alterar]: Unknown column 'name' in 'field list' com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'name' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.7.0_72]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[?:1.7.0_72]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.7.0_72]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526) ~[?:1.7.0_72]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.Util.getInstance(Util.java:360) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:978) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2530) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1907) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2141) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2077) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2062) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.ClienteJdbc.alterar(ClienteJdbc.java:141) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ClienteJdbcTest.testAlterar(ClienteJdbcTest.java:71) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_72]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[?:1.7.0_72]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_72]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_72]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:45) [junit-4.10.jar:?]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15) [junit-4.10.jar:?]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:42) [junit-4.10.jar:?]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20) [junit-4.10.jar:?]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28) [junit-4.10.jar:?]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:30) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:263) [junit-4.10.jar:?]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:68) [junit-4.10.jar:?]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:47) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:231) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:50) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:300) [junit-4.10.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnit4TestMethodAdapter.run(JUnit4TestMethodAdapter.java:105) [ant-junit4.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:523) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1063) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:914) [ant-junit.jar:?]
+
+2015.03.02 21:28:19 BRT [main] ERROR br.org.catolicasc.cadastro.data.ClienteJdbc 189 remover - Erro ao executar SQL [Buscar]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE (id=13)' at line 1 com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE (id=13)' at line 1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.7.0_72]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[?:1.7.0_72]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.7.0_72]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526) ~[?:1.7.0_72]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.Util.getInstance(Util.java:360) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:978) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2530) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1907) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2141) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2077) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2062) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.ClienteJdbc.remover(ClienteJdbc.java:179) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ClienteJdbcTest.testRemover(ClienteJdbcTest.java:92) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_72]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[?:1.7.0_72]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_72]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_72]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:45) [junit-4.10.jar:?]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15) [junit-4.10.jar:?]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:42) [junit-4.10.jar:?]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20) [junit-4.10.jar:?]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28) [junit-4.10.jar:?]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:30) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:263) [junit-4.10.jar:?]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:68) [junit-4.10.jar:?]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:47) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:231) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:60) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:229) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:50) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:222) [junit-4.10.jar:?]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:300) [junit-4.10.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnit4TestMethodAdapter.run(JUnit4TestMethodAdapter.java:105) [ant-junit4.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:523) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1063) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:914) [ant-junit.jar:?]
+
+2016.03.03 18:51:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:51:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:51:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:51:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:51:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:51:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:51:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:51:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:51:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:51:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:51:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:51:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:55:29 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:55:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:55:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:55:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:55:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:55:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:55:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:55:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:55:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:55:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:55:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:55:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:56:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:56:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: null
+2016.03.03 18:56:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:56:58 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: null
+2016.03.03 18:56:58 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:56:58 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: null
+2016.03.03 18:56:58 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:56:59 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: null
+2016.03.03 18:57:00 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: null
+2016.03.03 18:57:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: null
+2016.03.03 18:57:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:04 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: null
+2016.03.03 18:57:05 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: null
+2016.03.03 18:57:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:11 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: null
+2016.03.03 18:57:11 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:13 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: null
+2016.03.03 18:57:13 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:14 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: null
+2016.03.03 18:57:15 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: null
+2016.03.03 18:57:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:37 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_professor
+2016.03.03 18:57:37 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:39 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_professor
+2016.03.03 18:57:39 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:42 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_professor
+2016.03.03 18:57:42 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:43 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_professor
+2016.03.03 18:57:43 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:45 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_professor
+2016.03.03 18:57:45 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:46 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_professor
+2016.03.03 18:57:46 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:48 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_professor
+2016.03.03 18:57:49 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:51 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_professor
+2016.03.03 18:57:51 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:53 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_professor
+2016.03.03 18:57:53 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_professor
+2016.03.03 18:57:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_professor
+2016.03.03 18:57:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.03 18:57:58 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_professor

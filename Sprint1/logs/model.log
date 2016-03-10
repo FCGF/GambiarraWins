@@ -1,0 +1,17 @@
+2015.02.01 20:58:51 BRST [main] INFO  br.org.catolicasc.exemplo.model.Funcionario 19 <init> - Criando um funcionário.
+2015.02.01 20:58:51 BRST [main] INFO  br.org.catolicasc.exemplo.model.Funcionario 47 workLogger - start info
+2015.02.01 20:58:51 BRST [main] INFO  br.org.catolicasc.exemplo.model.Funcionario 49 workLogger - is info enabled: true
+2015.02.01 20:58:51 BRST [main] INFO  br.org.catolicasc.exemplo.model.Funcionario 50 workLogger - is debug enabled: true
+2015.02.01 20:58:51 BRST [main] INFO  br.org.catolicasc.exemplo.model.Funcionario 51 workLogger - is error enabled: true
+2015.02.01 20:58:51 BRST [main] INFO  br.org.catolicasc.exemplo.model.Funcionario 52 workLogger - is fatal enabled: true
+2015.02.01 20:58:51 BRST [main] INFO  br.org.catolicasc.exemplo.model.Funcionario 53 workLogger - is trace enabled: true
+2015.02.01 20:58:51 BRST [main] INFO  br.org.catolicasc.exemplo.model.Funcionario 54 workLogger - is warn enabled: true
+2015.02.01 20:58:51 BRST [main] WARN  br.org.catolicasc.exemplo.model.Funcionario 56 workLogger - ---> warn
+2015.02.01 20:58:51 BRST [main] ERROR br.org.catolicasc.exemplo.model.Funcionario 57 workLogger - ---> error
+2015.02.01 20:58:51 BRST [main] FATAL br.org.catolicasc.exemplo.model.Funcionario 58 workLogger - ---> fatal
+2015.02.01 20:58:51 BRST [main] DEBUG br.org.catolicasc.exemplo.model.Funcionario 59 workLogger - ---> debug
+2015.02.01 20:58:51 BRST [main] TRACE br.org.catolicasc.exemplo.model.Funcionario 60 workLogger - ---> trace
+2015.02.01 20:58:51 BRST [main] INFO  br.org.catolicasc.exemplo.model.Funcionario 61 workLogger - finnished info
+2015.02.01 20:58:51 BRST [main] INFO  br.org.catolicasc.exemplo.model.Funcionario 19 <init> - Criando um funcionário.
+2015.02.01 20:58:51 BRST [main] INFO  br.org.catolicasc.exemplo.model.Funcionario 27 <init> - Criando um funcionário. Id: 999, Nome: João Carlos
+2015.02.01 20:58:51 BRST [main] INFO  br.org.catolicasc.exemplo.model.Funcionario 19 <init> - Criando um funcionário.
