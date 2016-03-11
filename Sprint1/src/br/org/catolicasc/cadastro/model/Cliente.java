@@ -1,8 +1,11 @@
-package br.org.catolicasc.model;
+package br.org.catolicasc.cadastro.model;
 
-public class Cliente {
-    
-    private int id;
+/**
+ *
+ * @author fkannenberg
+ */
+public class Cliente extends Entity {
+
     private String nome;
     private boolean ativo;
 
@@ -11,30 +14,21 @@ public class Cliente {
     }
 
     public Cliente(int id, String nome, boolean ativo) {
-        this();
-        this.id = id;
+        super(id);
         this.nome = nome;
         this.ativo = ativo;
-    }
-
-    public int getId() {
-        return id;
     }
 
     public String getNome() {
         return nome;
     }
 
-    public boolean isAtivo() {
-        return ativo;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
     public void setNome(String nome) {
         this.nome = nome;
+    }
+
+    public boolean isAtivo() {
+        return ativo;
     }
 
     public void setAtivo(boolean ativo) {
@@ -44,6 +38,6 @@ public class Cliente {
     @Override
     public String toString() {
         return "Cliente{" + "id=" + id + ", nome=" + nome + ", ativo=" + ativo + '}';
-    } 
-}
+    }
 
+}

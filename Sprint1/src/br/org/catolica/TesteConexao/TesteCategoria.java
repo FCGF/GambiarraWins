@@ -1,6 +1,6 @@
 package br.org.catolica.TesteConexao;
 
-import br.org.catolicasc.model.Categoria;
+import br.org.catolicasc.cadastro.model.Categoria;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
