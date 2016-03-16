@@ -1,0 +1,412 @@
+2016.03.14 22:26:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:26:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:27:04 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:27:04 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:28:10 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:28:10 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:30:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:30:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:30:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:30:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:31:28 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:31:28 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:31:28 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:31:28 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:31:28 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:31:28 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:38:05 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:38:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:38:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:38:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:38:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:38:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:38:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:38:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:38:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:38:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:39:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:39:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:39:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:39:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:39:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:39:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:39:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:39:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:39:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:39:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:39:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:39:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:51:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:54:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:54:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:15 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:20 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:20 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:55:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:27 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:27 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:27 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:27 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:27 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:57:27 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:57:27 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 22:59:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.14 23:00:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:34 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:37 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 42 getConnection - Execute getConnection.
+2016.03.15 20:14:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 49 getConnection - --> Connected success. Data Base Schema: cadastro
