@@ -31,8 +31,12 @@ public class Cliente extends Entity {
         return ativo;
     }
 
-    public void setAtivo(boolean ativo) {
-        this.ativo = ativo;
+    public void ativa() {
+        this.ativo = true;
+    }
+
+    public void desativa() {
+        this.ativo = false;
     }
 
     @Override
