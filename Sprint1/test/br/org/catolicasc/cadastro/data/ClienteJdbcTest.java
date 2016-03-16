@@ -70,7 +70,7 @@ public class ClienteJdbcTest {
         Cliente c = clienteJdbc.findById(1);
         assertNotNull(c);
         assertTrue(c.isAtivo());
-        c.setAtivo(false);
+        c.desativa();
 
         clienteJdbc.update(c);
 
@@ -78,7 +78,7 @@ public class ClienteJdbcTest {
         assertNotNull(c);
         assertFalse(c.isAtivo());
 
-        c.setAtivo(true);
+        c.ativa();
 
         clienteJdbc.update(c);
     }
