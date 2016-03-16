@@ -25,6 +25,7 @@ public class ProdutoJdbc extends AbstractJdbcDao<Produto> {
 
     }
 
+    @Override
     protected Produto fillObject(ResultSet rs) throws SQLException {
         Produto o = new Produto();
         o.setId(rs.getInt("id"));
@@ -33,21 +34,22 @@ public class ProdutoJdbc extends AbstractJdbcDao<Produto> {
         o.setPrecoUnitario(rs.getDouble("preco_unitario"));
         o.setQuantidade(rs.getDouble("quantidade"));
         o.setEstoque(rs.getInt("estoque"));
-        o.continua();
         if (rs.getBoolean("descontinuado")) {
             o.descontinua();
+        } else {
+            o.continua();
         }
         return o;
     }
 
+    @Override
     protected int bindingObject(PreparedStatement stmt, Produto o) throws SQLException {
-        Produto p = (Produto) o;
-        stmt.setInt(1, p.getCategoria().getId());
-        stmt.setString(2, p.getNome());
-        stmt.setDouble(3, p.getPrecoUnitario());
-        stmt.setDouble(4, p.getQuantidade());
-        stmt.setInt(5, p.getEstoque());
-        stmt.setBoolean(6, p.isDescontinuado());
+        stmt.setInt(1, o.getCategoria().getId());
+        stmt.setString(2, o.getNome());
+        stmt.setDouble(3, o.getPrecoUnitario());
+        stmt.setDouble(4, o.getQuantidade());
+        stmt.setInt(5, o.getEstoque());
+        stmt.setBoolean(6, o.isDescontinuado());
         return 7;
     }
 
