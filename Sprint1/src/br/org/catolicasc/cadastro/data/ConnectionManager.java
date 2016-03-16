@@ -8,7 +8,7 @@ import org.apache.logging.log4j.Logger;
 
 /**
  *
- * @author fkannenberg
+ * @author GambiarraWins
  */
 public final class ConnectionManager {
 

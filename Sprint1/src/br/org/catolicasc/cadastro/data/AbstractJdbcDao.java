@@ -12,7 +12,7 @@ import org.apache.logging.log4j.Logger;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author GambiarraWins
  * @param <T> Categoria, Cliente ou Produto.
  */
 public abstract class AbstractJdbcDao<T extends Entity> {

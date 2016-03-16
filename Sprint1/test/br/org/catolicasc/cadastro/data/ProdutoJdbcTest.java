@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author GambiarraWins
  */
 public class ProdutoJdbcTest {
 
@@ -52,18 +52,94 @@ public class ProdutoJdbcTest {
     public void testCreate() throws Exception {
         Produto actual = new Produto(0, new Categoria(1), "Teste", 4589.09, 759.98, 12, true);
         produtoJdbc.create(actual);
-        
+
         assertTrue(actual.getId() > 0);
-        
-        
+
+        System.out.println(actual);
+        /*
+        Produto produtoPersistente = produtoJdbc.findById(actual.getId());
+
+        assertEquals(actual.getId(), produtoPersistente.getId());
+        assertEquals(actual.getNome(), produtoPersistente.getNome());
+        assertEquals(actual.getCategoria(), produtoPersistente.getCategoria());
+        assertEquals(actual.getPrecoUnitario(), produtoPersistente.getPrecoUnitario());
+        assertEquals(actual.getEstoque(), produtoPersistente.getEstoque());
+        assertEquals(actual.getQuantidade(), produtoPersistente.getQuantidade());
+        assertEquals(actual.isDescontinuado(), produtoPersistente.isDescontinuado());
+         */
+
     }
 
     @Test
     public void testUpdate() throws Exception {
+        /*
+        Produto p = produtoJdbc.findById(1);
+        assertNotNull(p);
+        assertTrue(p.isDescontinuado());
+        p.descontinua();
+
+        produtoJdbc.update(p);
+
+        p = produtoJdbc.findById(1);
+        assertNotNull(p);
+        assertFalse(p.isDescontinuado());
+
+        p.continua();
+
+        produtoJdbc.update(p);
+         */
+ /*
+        Categoria categoria = new Categoria();
+        Produto produto = new Produto(0, categoria, "teste", 0, 0, 0, true);
+        produtoJdbc.create(produto);
+        assertNotNull(produto);
+        assertTrue(produto.getId() != 0);
+
+        Produto produtoPersistente = produtoJdbc.findById(produto.getId());
+        
+        assertNotNull(produtoPersistente);
+        assertEquals(produto.getId(), produtoPersistente.getId());
+        assertEquals(produto.getNome(), produtoPersistente.getNome());
+        assertEquals(produto.getCategoria(), produtoPersistente.getCategoria());
+        assertEquals(produto.getPrecoUnitario(), produtoPersistente.getPrecoUnitario());
+        assertEquals(produto.getEstoque(), produtoPersistente.getEstoque());
+        assertEquals(produto.getQuantidade(), produtoPersistente.getQuantidade());
+        assertEquals(produto.isDescontinuado(), produtoPersistente.isDescontinuado());
+        
+        produto.setNome("Produto Modificado.");
+        produto.descontinua();
+        
+        produtoJdbc.update((produto));
+        
+        produtoPersistente = produtoJdbc.findById(produto.getId());
+        
+        assertNotNull(produtoPersistente);
+        assertEquals(produto.getId(), produtoPersistente.getId());
+        assertEquals(produto.getNome(), produtoPersistente.getNome());
+        assertEquals(produto.getCategoria(), produtoPersistente.getCategoria());
+        assertEquals(produto.getPrecoUnitario(), produtoPersistente.getPrecoUnitario());
+        assertEquals(produto.getEstoque(), produtoPersistente.getEstoque());
+        assertEquals(produto.getQuantidade(), produtoPersistente.getQuantidade());
+        assertEquals(produto.isDescontinuado(), produtoPersistente.isDescontinuado());
+         */
     }
 
     @Test
     public void testDelete() throws Exception {
+
+        List<Produto> clientes = produtoJdbc.findAll();
+
+        assertNotNull(clientes);
+
+        Produto p = clientes.get(clientes.size() - 1);
+
+        System.out.println("Excluir: " + p);
+
+        produtoJdbc.delete(p);
+
+        p = produtoJdbc.findById(p.getId());
+
+        assertNull(p);
     }
 
     @Test
@@ -72,6 +148,8 @@ public class ProdutoJdbcTest {
 
     @Test
     public void testCountAll() throws Exception {
+        int actual = produtoJdbc.countAll();
+        assertTrue(actual > 0);
     }
 
 }

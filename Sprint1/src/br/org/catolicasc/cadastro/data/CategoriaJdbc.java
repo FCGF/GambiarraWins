@@ -7,7 +7,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author fkannenberg
+ * @author GambiarraWins
  */
 public class CategoriaJdbc extends AbstractJdbcDao<Categoria> {
 

@@ -1142,3 +1142,213 @@
 2016.03.11 14:22:13 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
 2016.03.11 14:22:13 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
 2016.03.11 14:22:13 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:01:33 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:01:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:03:50 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:03:51 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:03:51 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:03:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:06:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:06:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:06:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:06:57 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:06:57 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:06:58 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:06:58 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:07:00 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:08:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:08:37 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:08:37 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:08:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:08:39 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:08:40 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:08:40 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:08:41 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:08:41 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:08:42 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:08:42 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:08:43 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:08:43 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:08:44 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:08:44 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:08:45 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:08:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:08:57 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:08:57 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:08:58 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:08:59 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:08:59 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:09:00 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:09:01 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:09:01 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:09:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:09:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:09:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:09:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:09:04 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:09:05 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:09:05 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:11:33 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:11:34 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:11:34 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:11:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:11:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:11:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:11:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:11:37 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:11:37 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:11:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:11:39 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:11:40 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:11:40 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:11:41 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:11:41 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:11:42 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:11:42 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:11:43 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:11:43 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:11:44 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:11:44 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:11:45 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:13:31 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:13:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:13:33 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:13:34 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:13:34 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:13:34 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:13:34 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:13:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:13:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:13:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:13:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:13:37 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:13:37 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:13:38 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:13:39 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:13:40 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:13:40 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:13:41 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:13:41 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:13:42 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:13:42 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:13:43 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:13:43 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:13:44 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:17:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:17:27 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:17:27 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:17:28 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:17:28 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:17:29 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:17:29 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:17:29 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:19:22 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:19:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:19:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:19:24 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:19:24 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:19:25 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:19:25 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:19:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:20:31 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:20:31 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:20:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:20:33 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:20:33 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:20:34 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:20:34 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:20:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:21:18 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:21:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:21:20 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:21:21 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:21:21 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:21:22 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:21:22 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:21:24 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:21:44 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:21:45 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:21:45 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:21:46 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:21:47 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:21:48 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:21:48 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:21:49 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:22:59 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:23:01 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:23:01 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:23:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:23:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:23:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:27:21 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:27:22 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:27:22 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:27:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:27:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:27:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:27:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:27:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:27:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:27:24 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:28:50 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:28:51 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:28:51 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:28:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:28:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:28:53 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:28:53 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:28:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:28:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:28:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:35:33 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:35:34 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:35:34 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:35:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:35:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:35:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:35:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:35:37 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:36:27 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:36:28 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:36:28 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:36:29 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:36:29 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:36:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:36:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:36:31 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:36:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:36:33 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:36:33 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:36:34 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:38:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:38:21 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:38:21 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:38:22 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:38:22 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:38:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:39:41 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:39:42 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:39:42 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:39:43 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:39:44 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:39:45 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:39:45 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:39:45 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:39:46 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:39:47 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:39:47 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:39:47 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:40:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:40:20 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:40:21 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:40:22 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:40:22 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:40:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:40:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:40:24 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:40:24 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:40:25 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:40:25 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:40:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski
+2016.03.16 13:40:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 37 getConnection - Execute getConnection.
+2016.03.16 13:40:27 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 44 getConnection - --> Connected success. Data Base Schema: db_rafael_chewinski

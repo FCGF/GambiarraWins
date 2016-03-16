@@ -11,7 +11,7 @@ import org.junit.BeforeClass;
 
 /**
  *
- * @author fkannenberg
+ * @author GambiarraWins
  */
 public class ClienteJdbcTest {
 
