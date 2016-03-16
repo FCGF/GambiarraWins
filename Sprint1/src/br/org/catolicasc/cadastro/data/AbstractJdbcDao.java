@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package br.org.catolicasc.cadastro.data;
 
 import br.org.catolicasc.cadastro.model.Entity;
@@ -18,6 +13,7 @@ import org.apache.logging.log4j.Logger;
 /**
  *
  * @author flavio.kannenberg
+ * @param <T> Categoria, Cliente ou Produto.
  */
 public abstract class AbstractJdbcDao<T extends Entity> {
 
@@ -117,7 +113,7 @@ public abstract class AbstractJdbcDao<T extends Entity> {
             stmt = conn.prepareStatement(SQL_TO_UPDATE, PreparedStatement.RETURN_GENERATED_KEYS);
             int idIndex = bindingObject(stmt, o);
             stmt.setInt(idIndex, o.getId());
-            
+
             int rowcount = stmt.executeUpdate();
             if (rowcount == 0) {
                 throw new SQLException("Objeto não salvo! (Chave primaria não encontrada!)");
@@ -199,8 +195,20 @@ public abstract class AbstractJdbcDao<T extends Entity> {
         return allRows;
     }
 
+    /**
+     *
+     * @param rs ResultSet com os parâmetros a serem lidos.
+     * @return Entidade preenchida com as informações lidas do ResultSet.
+     * @throws SQLException
+     */
     protected abstract T fillObject(ResultSet rs) throws SQLException;
 
+    /**
+     * @param stmt Statement para receber os parâmetros para preparar o SQL.
+     * @param o Entidade da qual serão pegos os parâmetros.
+     * @return Posição do índice dentro do SQL.
+     * @throws SQLException
+     */
     protected abstract int bindingObject(PreparedStatement stmt, T o) throws SQLException;
 
     protected void close(ResultSet rs) {
