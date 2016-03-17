@@ -13,10 +13,34 @@ public class UnidadePesoTest {
     }
 
     @Test
+    public void testQuilogramaParaGrama() {
+        final UnidadePeso atual = UnidadePeso.QUILOGRAMA;
+        final double valorAtual = 10.0;
+        final double valorKilo = atual.converteA(UnidadePeso.GRAMA, valorAtual);
+        assertEquals(valorAtual * 1000.0, valorKilo, 0);
+    }
+
+    @Test
     public void testQuilogramaParaQuilograma() {
         final UnidadePeso atual = UnidadePeso.QUILOGRAMA;
         final double valorAtual = 10.0;
         final double valorKilo = atual.converteA(UnidadePeso.QUILOGRAMA, valorAtual);
+        assertEquals(valorAtual, valorKilo, 0);
+    }
+
+    @Test
+    public void testQuilogramaParaTonelada() {
+        final UnidadePeso atual = UnidadePeso.QUILOGRAMA;
+        final double valorAtual = 1000.0;
+        final double valorKilo = atual.converteA(UnidadePeso.TONELADA, valorAtual);
+        assertEquals(valorAtual / 1000.0, valorKilo, 0);
+    }
+
+    @Test
+    public void testGramaParaGrama() {
+        final UnidadePeso atual = UnidadePeso.GRAMA;
+        final double valorAtual = 1000.0;
+        final double valorKilo = atual.converteA(UnidadePeso.GRAMA, valorAtual);
         assertEquals(valorAtual, valorKilo, 0);
     }
 
@@ -29,6 +53,22 @@ public class UnidadePesoTest {
     }
 
     @Test
+    public void testGramaParaTonelada() {
+        final UnidadePeso atual = UnidadePeso.GRAMA;
+        final double valorAtual = 1000.0;
+        final double valorKilo = atual.converteA(UnidadePeso.TONELADA, valorAtual);
+        assertEquals(valorAtual / 1000000, valorKilo, 0);
+    }
+
+    @Test
+    public void testToneladaParaGrama() {
+        final UnidadePeso atual = UnidadePeso.TONELADA;
+        final double valorAtual = 1.0;
+        final double valorKilo = atual.converteA(UnidadePeso.GRAMA, valorAtual);
+        assertEquals(valorAtual * 1000000.0, valorKilo, 0);
+    }
+
+    @Test
     public void testToneladaParaQuilograma() {
         final UnidadePeso atual = UnidadePeso.TONELADA;
         final double valorAtual = 10.0;
@@ -36,4 +76,11 @@ public class UnidadePesoTest {
         assertEquals(valorAtual * 1000.0, valorKilo, 0);
     }
 
+    @Test
+    public void testToneladaParaTonelada() {
+        final UnidadePeso atual = UnidadePeso.TONELADA;
+        final double valorAtual = 10.0;
+        final double valorKilo = atual.converteA(UnidadePeso.TONELADA, valorAtual);
+        assertEquals(valorAtual, valorKilo, 0);
+    }
 }
