@@ -3,51 +3,44 @@ package br.org.catolicasc.cadastro.model;
 import java.sql.Date;
 import java.time.LocalDate;
 import org.junit.After;
-import org.junit.AfterClass;
 import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
  *
- * @author  GambiarraWins
+ * @author GambiarraWins
  */
 public class ClienteTest {
-    
+
     private Cliente cliente;
-    
+
     public ClienteTest() {
     }
-    
+
     private Date parseDate(int dia, int mes, int ano) {
-        return  Date.valueOf(LocalDate.of(ano, mes, dia));
+        return Date.valueOf(LocalDate.of(ano, mes, dia));
     }
-    
+
     @Before
     public void setUp() {
         cliente = new Cliente(0, "Nome", parseDate(1, 1, 2000), true);
     }
-    
+
     @After
     public void tearDown() {
         cliente = null;
     }
 
     @Test
-    public void testSetId() {
-    }
-
-    @Test
-    public void testSetNome() {
-    }
-
-    @Test
     public void testSetAtivo() {
+        cliente.setAtivo(false);
+        assertFalse(cliente.isAtivo());
     }
 
     @Test
     public void testToString() {
+        assertTrue(cliente.toString() != null && !cliente.toString().isEmpty());
     }
 
     @Test
@@ -97,5 +90,5 @@ public class ClienteTest {
         assertEquals(expResult, result);
         fail("The test case is a prototype.");
     }
-    
+
 }
