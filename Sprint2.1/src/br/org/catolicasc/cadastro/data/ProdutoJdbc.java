@@ -1,6 +1,5 @@
 package br.org.catolicasc.cadastro.data;
 
-import br.org.catolicasc.cadastro.model.Categoria;
 import br.org.catolicasc.cadastro.model.Produto;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -29,7 +28,6 @@ public class ProdutoJdbc extends AbstractJdbcDao<Produto> {
     protected Produto fillObject(ResultSet rs) throws SQLException {
         Produto o = new Produto();
         o.setId(rs.getInt("id"));
-        o.setCategoria(new Categoria(rs.getInt("categoria_id")));
         o.setNome(rs.getString("nome"));
         o.setPrecoUnitario(rs.getDouble("preco_unitario"));
         o.setQuantidade(rs.getDouble("quantidade"));
@@ -44,7 +42,6 @@ public class ProdutoJdbc extends AbstractJdbcDao<Produto> {
     @Override
     protected int bindingObject(PreparedStatement stmt, Produto o) throws SQLException {
         Produto p = (Produto) o;
-        stmt.setInt(1, p.getCategoria().getId());
         stmt.setString(2, p.getNome());
         stmt.setDouble(3, p.getPrecoUnitario());
         stmt.setDouble(4, p.getQuantidade());
