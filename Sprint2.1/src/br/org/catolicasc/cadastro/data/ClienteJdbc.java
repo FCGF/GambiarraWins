@@ -7,7 +7,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author GambiarraWins
  */
 public final class ClienteJdbc extends AbstractJdbcDao<Cliente> {
 
