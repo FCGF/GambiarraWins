@@ -76,8 +76,9 @@ public class ProdutoTest {
     public void testCalculaPesoEmQuilo() {
         int gramas = 1000;
         produto.setPeso(gramas);
+        produto.setUnidade(UnidadePeso.GRAMA);
         double peso = produto.calculaPesoEmQuilo();
-        assertEquals(peso, gramas, 0);
+        assertEquals(peso, gramas/1000, 0);
     }
 
     @Test
