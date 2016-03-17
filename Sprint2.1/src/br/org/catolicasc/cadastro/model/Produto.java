@@ -2,41 +2,22 @@ package br.org.catolicasc.cadastro.model;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author GambiarraWins
  */
 public class Produto extends Entity {
 
-    private Categoria categoria;
     private String nome;
-    private double precoUnitario;
-    private double quantidade;
-    private int estoque;
-    private boolean descontinuado;
+    private double peso;
+    private double qtdeDisponivel;
+    private UnidadePeso unidade;
 
     public Produto() {
         super();
     }
 
-    public Produto(int id) {
+    public Produto(int id, String nome) {
         super(id);
-    }
-
-    public Produto(int id, Categoria categoria, String nome, double precoUnitario, double quantidade, int estoque, boolean descontinuado) {
-        this(id);
-        this.categoria = categoria;
         this.nome = nome;
-        this.precoUnitario = precoUnitario;
-        this.quantidade = quantidade;
-        this.estoque = estoque;
-        this.descontinuado = descontinuado;
-    }
-
-    public Categoria getCategoria() {
-        return categoria;
-    }
-
-    public void setCategoria(Categoria categoria) {
-        this.categoria = categoria;
     }
 
     public String getNome() {
@@ -47,45 +28,57 @@ public class Produto extends Entity {
         this.nome = nome;
     }
 
-    public double getPrecoUnitario() {
-        return precoUnitario;
+    public double getPeso() {
+        return peso;
     }
 
-    public void setPrecoUnitario(double precoUnitario) {
-        this.precoUnitario = precoUnitario;
+    public void setPeso(double peso) {
+        this.peso = peso;
     }
 
-    public double getQuantidade() {
-        return quantidade;
+    public double getQtdeDisponivel() {
+        return qtdeDisponivel;
     }
 
-    public void setQuantidade(double quantidade) {
-        this.quantidade = quantidade;
+    public void setQtdeDisponivel(double qtdeDisponivel) {
+        this.qtdeDisponivel = qtdeDisponivel;
     }
 
-    public int getEstoque() {
-        return estoque;
+    public UnidadePeso getUnidade() {
+        return unidade;
     }
 
-    public void setEstoque(int estoque) {
-        this.estoque = estoque;
+    public void setUnidade(UnidadePeso unidade) {
+        this.unidade = unidade;
     }
 
-    public boolean isDescontinuado() {
-        return descontinuado;
+    public void setUnidade(int indice) {
+        setUnidade(UnidadePeso.parse(indice));
     }
 
-    public void descontinua() {
-        this.descontinuado = true;
-    }
-
-    public void continua() {
-        this.descontinuado = false;
+    public double calculaPesoEmQuilo() {
+        double pesoKg;
+        switch (getUnidade().ordinal()) {
+            case 0:
+                pesoKg = getPeso();
+                break;
+            case 1:
+                pesoKg = getPeso() / 1000.0;
+                break;
+            case 2:
+                pesoKg = getPeso() * 1000.0;
+                break;
+            default:
+                pesoKg = 0;
+                break;
+        }
+        return pesoKg;
     }
 
     @Override
     public String toString() {
-        return String.format("Produto=[ ID: %d, %s, Nome: %s, Preço: %.2f, Quantidade: %.2f, Estoque: %d, Descontinuado: %b ]", getId(), categoria, nome, precoUnitario, quantidade, estoque, descontinuado);
+        return String.format("Produto=[ ID: %d, Nome: %s, Peso: %.2f, Quantidade Disponível: %.2f, Unidade Medida: %s ]",
+                getId(), getNome(), getPeso(), getQtdeDisponivel(), getUnidade().name());
     }
 
 }
