@@ -57,22 +57,7 @@ public class Produto extends Entity {
     }
 
     public double calculaPesoEmQuilo() {
-        double pesoKg;
-        switch (getUnidade().ordinal()) {
-            case 0:
-                pesoKg = getPeso();
-                break;
-            case 1:
-                pesoKg = getPeso() / 1000.0;
-                break;
-            case 2:
-                pesoKg = getPeso() * 1000.0;
-                break;
-            default:
-                pesoKg = 0;
-                break;
-        }
-        return pesoKg;
+        return UnidadePeso.converteAKilo(unidade, peso);
     }
 
     @Override
