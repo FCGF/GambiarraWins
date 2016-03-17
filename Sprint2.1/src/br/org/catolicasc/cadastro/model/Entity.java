@@ -5,7 +5,7 @@ package br.org.catolicasc.cadastro.model;
  *
  * @author flavio.kannenberg
  */
-public abstract class Entity {
+public abstract class Entity implements IEntity{
 
     private int id;
 
