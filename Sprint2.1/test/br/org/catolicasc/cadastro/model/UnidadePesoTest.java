@@ -83,4 +83,24 @@ public class UnidadePesoTest {
         final double valorKilo = atual.converteA(UnidadePeso.TONELADA, valorAtual);
         assertEquals(valorAtual, valorKilo, 0);
     }
+
+    @Test
+    public void testParseZero() {
+        assertEquals(UnidadePeso.parse(0), UnidadePeso.QUILOGRAMA);
+    }
+
+    @Test
+    public void testParseUm() {
+        assertEquals(UnidadePeso.parse(1), UnidadePeso.GRAMA);
+    }
+
+    @Test
+    public void testParseDois() {
+        assertEquals(UnidadePeso.parse(2), UnidadePeso.TONELADA);
+    }
+
+    @Test
+    public void testParseTres() {
+        assertEquals(UnidadePeso.parse(3), null);
+    }
 }
