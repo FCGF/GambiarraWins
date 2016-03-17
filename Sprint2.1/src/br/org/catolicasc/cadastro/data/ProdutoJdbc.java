@@ -29,13 +29,6 @@ public class ProdutoJdbc extends AbstractJdbcDao<Produto> {
         Produto o = new Produto();
         o.setId(rs.getInt("id"));
         o.setNome(rs.getString("nome"));
-        o.setPrecoUnitario(rs.getDouble("preco_unitario"));
-        o.setQuantidade(rs.getDouble("quantidade"));
-        o.setEstoque(rs.getInt("estoque"));
-        o.continua();
-        if (rs.getBoolean("descontinuado")) {
-            o.descontinua();
-        }
         return o;
     }
 
@@ -43,10 +36,6 @@ public class ProdutoJdbc extends AbstractJdbcDao<Produto> {
     protected int bindingObject(PreparedStatement stmt, Produto o) throws SQLException {
         Produto p = (Produto) o;
         stmt.setString(2, p.getNome());
-        stmt.setDouble(3, p.getPrecoUnitario());
-        stmt.setDouble(4, p.getQuantidade());
-        stmt.setInt(5, p.getEstoque());
-        stmt.setBoolean(6, p.isDescontinuado());
         return 7;
     }
 
