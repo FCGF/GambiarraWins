@@ -13,15 +13,9 @@ import org.apache.logging.log4j.Logger;
 public final class ConnectionManager {
 
     private static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-    /*
-    private static final String URL = "jdbc:mysql://10.197.8.203:3306/db_professor";
-    private static final String USER = "professor";
+    private static final String URL = "jdbc:mysql://10.197.8.203:3306/db_igor_fachini?useSSL=false";
+    private static final String USER = "igor_fachini";
     private static final String PASSWORD = "abc123";
-    */
-    private static final String URL = "jdbc:mysql://localhost:3306/cadastro";
-    private static final String USER = "root";
-    private static final String PASSWORD = "abc123";
-    
     private static Connection conn = null;
     private static final ConnectionManager CONNECTION_MANAGER;
 
