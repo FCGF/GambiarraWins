@@ -7,7 +7,7 @@ package br.org.catolicasc.cadastro.model;
 public enum UnidadePeso {
     QUILOGRAMA(1.0),
     GRAMA(1000.0),
-    TONELADA(0.1);
+    TONELADA(0.001);
 
     private UnidadePeso(double valorKilo) {
         this.valorKilo = valorKilo;
@@ -19,7 +19,7 @@ public enum UnidadePeso {
         return valorKilo;
     }
 
-    public double converteAKilo(UnidadePeso unidade, double valor) {
+    public static double converteAKilo(UnidadePeso unidade, double valor) {
         return valor / unidade.getFator();
     }
 
