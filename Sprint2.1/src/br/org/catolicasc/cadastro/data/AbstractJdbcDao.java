@@ -1,6 +1,6 @@
 package br.org.catolicasc.cadastro.data;
 
-import br.org.catolicasc.cadastro.model.Entity;
+import br.org.catolicasc.cadastro.model.IEntity;
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
 import java.sql.Connection;
@@ -14,10 +14,10 @@ import org.apache.logging.log4j.Logger;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author GambiarraWins
  * @param <T>
  */
-public abstract class AbstractJdbcDao<T extends Entity> {
+public abstract class AbstractJdbcDao<T extends IEntity> {
 
     private static final Logger LOGGER = LogManager.getLogger(AbstractJdbcDao.class);
 
