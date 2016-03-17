@@ -57,7 +57,8 @@ public class Produto extends Entity {
     }
 
     public double calculaPesoEmQuilo() {
-        return UnidadePeso.converteAKilo(unidade, peso);
+        final UnidadePeso quilo = UnidadePeso.QUILOGRAMA;
+        return unidade.converteA(quilo, peso);
     }
 
     @Override

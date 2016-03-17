@@ -19,8 +19,8 @@ public enum UnidadePeso {
         return valorKilo;
     }
 
-    public static double converteAKilo(UnidadePeso unidade, double valor) {
-        return valor / unidade.getFator();
+    public double converteA(UnidadePeso unidade, double valor) {
+        return valor * unidade.getFator() / this.getFator();
     }
 
     public static UnidadePeso parse(int indice) {
