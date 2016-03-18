@@ -1,6 +1,11 @@
-
 package br.org.catolicasc.cadastro.model;
+
+import java.time.Instant;
+import java.time.LocalDateTime;
+import java.time.Period;
+import java.time.ZoneId;
 import java.util.Date;
+
 public abstract class Pessoa extends Entity {
 
     private String nome;
@@ -35,15 +40,24 @@ public abstract class Pessoa extends Entity {
     public Date getDataNascimento() {
         return dataNascimento;
     }
-    
-    public int calculaIdade(){
-        return 2015 - dataNascimento.getYear();
+
+    public int calculaIdade() {
+
+        Instant instant = Instant.ofEpochMilli(getDataNascimento().getTime());
+        LocalDateTime dataNascimento = LocalDateTime.ofInstant(instant, ZoneId.systemDefault());
+        LocalDateTime atual = LocalDateTime.now();
+        Period period = Period.between(dataNascimento.toLocalDate(), atual.toLocalDate());
+        int anos = period.getYears();
+
+        return anos;
     }
 
     @Override
     public String toString() {
-        return "Nome: "+nome+" Data de nascimento: "+dataNascimento;
+        return String.format("Pessoa=[ ID: %d, Nome: %s, Data Nascimento: "
+                +getDataNascimento().toString()+ " ]",
+                getId(), 
+                getNome());
     }
-    
-    
+
 }
