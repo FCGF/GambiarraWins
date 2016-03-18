@@ -1,6 +1,8 @@
 package br.org.catolicasc.cadastro.data;
 
 import br.org.catolicasc.cadastro.model.Cliente;
+import java.time.Instant;
+import java.util.Date;
 import java.util.List;
 import org.junit.AfterClass;
 import org.junit.Test;
@@ -54,7 +56,7 @@ public class ClienteJdbcTest {
     @Test
     public void testCreate() throws Exception {
 
-        Cliente actual = new Cliente(0, "Padaria do Zé", true);
+        Cliente actual = new Cliente(1, "Padaria do Zé", Date.from(Instant.now()), true);
 
         clienteJdbc.create(actual);
 

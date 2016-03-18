@@ -1,6 +1,7 @@
 package br.org.catolicasc.cadastro.data;
 
 import br.org.catolicasc.cadastro.model.Cliente;
+import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -10,18 +11,45 @@ import java.sql.SQLException;
  * @author GambiarraWins
  */
 public final class ClienteJdbc extends AbstractJdbcDao<Cliente> {
-
+    
+    private final String findByNameSql;
+    
     public ClienteJdbc(ConnectionManager mngr) {
         super(mngr);
+        
+        findAllSql = "SELECT ID, NOME, DATA_NASCIMENTO, LIMITE_CREDITO, NUMERO_CARTAO, CONTATO, ATIVO FROM CLIENTE";
+        findByIdSql = "SELECT ID, NOME, DATA_NASCIMENTO, LIMITE_CREDITO, NUMERO_CARTAO, CONTATO, ATIVO FROM CLIENTE WHERE (ID=?)";
+        findByNameSql = "SELECT ID, NOME, DATA_NASCIMENTO, LIMITE_CREDITO, NUMERO_CARTAO, CONTATO, ATIVO FROM CLIENTE WHERE (NOME LIKE ?)";
+        createSql = "INSERT INTO CLIENTE (NOME, DATA_NASCIMENTO, LIMITE_CREDITO, NUMERO_CARTAO, CONTATO, ATIVO) VALUES (?, ?, ?, ?, ?, ?)";
+        updateSql = "UPDATE CLIENTE SET NOME=?, DATA_NASCIMENTO=?, LIMITE_CREDITO=?, NUMERO_CARTAO=?, CONTATO=?, ATIVO=? WHERE (ID=?)";
+        deleteSql = "DELETE FROM CLIENTE WHERE (ID=?)";
+        deleteAllSql = "DELETE FROM CLIENTE";
+        countAllSql = "SELECT COUNT(1) FROM CLIENTE";
 
-        findAllSql = "SELECT id, nome, ativo FROM cliente";
-        findByIdSql = "SELECT id, nome, ativo FROM cliente WHERE id = ?";
-        createSql = "INSERT INTO cliente (nome, ativo) VALUES (?, ?)";
-        updateSql = "UPDATE cliente SET nome=?, ativo=? WHERE (id=?)";
-        deleteSql = "DELETE FROM cliente WHERE (id=?)";
-        deleteAllSql = "DELETE FROM cliente";
-        countAllSql = "SELECT COUNT(1) FROM cliente";
-
+    }
+    
+    public Cliente findByName(String nome) throws SQLException, Exception {
+        Cliente o = null;
+        Connection conn = null;
+        PreparedStatement stmt = null;
+        ResultSet rs = null;
+        try {
+            conn = getConnection();
+            stmt = conn.prepareStatement(findByNameSql);
+            stmt.setString(1, nome);
+            rs = stmt.executeQuery();
+            while (rs.next()) {
+                o = fillObject(rs);
+            }
+        } catch (SQLException ex) {
+            LOGGER.error("Erro ao executar SQL (findByName)", ex);
+            throw ex;
+        } finally {
+            close(conn);
+            close(stmt);
+            close(rs);
+        }
+        return o;
     }
 
     @Override
