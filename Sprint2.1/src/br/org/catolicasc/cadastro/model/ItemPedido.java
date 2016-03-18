@@ -50,7 +50,7 @@ public class ItemPedido extends Entity{
         this.produto = produto;
     }
     
-    public double cacularPesoEmQuilo(){
+    public double calcularPesoEmQuilo(){
         return produto.calculaPesoEmQuilo();
     }
 
