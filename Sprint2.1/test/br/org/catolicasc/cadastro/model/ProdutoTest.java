@@ -83,6 +83,7 @@ public class ProdutoTest {
 
     @Test
     public void testToString() {
+         assertTrue(produto.toString() != null && !produto.toString().isEmpty());
     }
     
 }

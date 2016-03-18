@@ -1,5 +1,7 @@
 package br.org.catolicasc.cadastro.model;
 
+import java.time.Instant;
+import java.util.Calendar;
 import java.util.Date;
 import org.junit.After;
 import org.junit.Before;
@@ -11,17 +13,18 @@ import static org.junit.Assert.*;
  * @author GambiarraWins
  */
 public class PessoaTest {
-    
+
     public PessoaTest() {
     }
-    
+
     private Pessoa instance;
-    
+
     @Before
     public void setUp() {
-        instance = new Pessoa() {};
+        instance = new Pessoa() {
+        };
     }
-    
+
     @After
     public void tearDown() {
         instance = null;
@@ -36,41 +39,30 @@ public class PessoaTest {
 
     @Test
     public void testSetDataNascimento() {
+        //UnidadePeso atual = UnidadePeso.GRAMA;
+        //produto.setUnidade(atual);
+        //UnidadePeso unidade = produto.getUnidade();       
+        //assertEquals(unidade, atual);
+        
         System.out.println("setDataNascimento");
-        Date dataNascimento = null;
-        Pessoa instance = new PessoaImpl();
+        final Calendar cal = Calendar.getInstance();
+        cal.add(Calendar.YEAR,-20);
+        Date dataNascimento = cal.getTime();
         instance.setDataNascimento(dataNascimento);
-        fail("The test case is a prototype.");
-    }
+        Date data = instance.getDataNascimento();
+        assertEquals(data, dataNascimento);
 
-    @Test
-    public void testGetNome() {
-        System.out.println("getNome");
-        Pessoa instance = new PessoaImpl();
-        String expResult = "";
-        String result = instance.getNome();
-        assertEquals(expResult, result);
-        fail("The test case is a prototype.");
-    }
-
-    @Test
-    public void testGetDataNascimento() {
-        System.out.println("getDataNascimento");
-        Pessoa instance = new PessoaImpl();
-        Date expResult = null;
-        Date result = instance.getDataNascimento();
-        assertEquals(expResult, result);
-        fail("The test case is a prototype.");
     }
 
     @Test
     public void testCalculaIdade() {
         System.out.println("calculaIdade");
-        Pessoa instance = new PessoaImpl();
-        int expResult = 0;
+        final Calendar cal = Calendar.getInstance();
+        cal.add(Calendar.YEAR,-20);
+        Date dataNascimento = cal.getTime();
+        instance.setDataNascimento(dataNascimento);
         int result = instance.calculaIdade();
-        assertEquals(expResult, result);
-        fail("The test case is a prototype.");
+        assertEquals(20, result);
     }
 
     @Test
@@ -85,5 +77,5 @@ public class PessoaTest {
 
     public class PessoaImpl extends Pessoa {
     }
-    
+
 }

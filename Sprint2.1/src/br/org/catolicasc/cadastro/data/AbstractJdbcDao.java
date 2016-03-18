@@ -19,7 +19,7 @@ import org.apache.logging.log4j.Logger;
  */
 public abstract class AbstractJdbcDao<T extends IEntity> {
 
-    private static final Logger LOGGER = LogManager.getLogger(AbstractJdbcDao.class);
+    protected static final Logger LOGGER = LogManager.getLogger(AbstractJdbcDao.class);
 
     private ConnectionManager mngr = null;
 
