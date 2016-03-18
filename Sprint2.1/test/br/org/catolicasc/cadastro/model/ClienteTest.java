@@ -45,50 +45,46 @@ public class ClienteTest {
 
     @Test
     public void testSetLimiteCredito() {
-        System.out.println("setLimiteCredito");
-        double limiteCredito = 0.0;
-        Cliente instance = new Cliente();
-        instance.setLimiteCredito(limiteCredito);
-        fail("The test case is a prototype.");
+        final double limiteCredito = 1500;
+        cliente.setLimiteCredito(limiteCredito);
+        assertEquals(limiteCredito, cliente.getLimiteCredito(), 0);
     }
 
     @Test
     public void testSetNumeroCartaoCredito() {
-        System.out.println("setNumeroCartaoCredito");
-        double numeroCartaoCredito = 0.0;
-        Cliente instance = new Cliente();
-        instance.setNumeroCartaoCredito(numeroCartaoCredito);
-        fail("The test case is a prototype.");
+        final double nrCartaoCredito = 6666;
+        cliente.setNumeroCartaoCredito(nrCartaoCredito);
+        assertEquals(nrCartaoCredito, cliente.getNumeroCartaoCredito(), 0);
     }
 
     @Test
     public void testSetContato() {
-        System.out.println("setContato");
-        String contato = "";
-        Cliente instance = new Cliente();
-        instance.setContato(contato);
-        fail("The test case is a prototype.");
+        String contato = "Teste, 123";
+        cliente.setContato(contato);
+        assertEquals(contato, cliente.getContato());
     }
 
     @Test
-    public void testVerificaCredito() {
-        System.out.println("verificaCredito");
-        double valorCompra = 0.0;
-        Cliente instance = new Cliente();
-        boolean expResult = false;
-        boolean result = instance.verificaCredito(valorCompra);
-        assertEquals(expResult, result);
-        fail("The test case is a prototype.");
+    public void testVerificaCreditoFalse() {
+        cliente.setLimiteCredito(1000);
+        assertFalse(cliente.verificaCredito(1100));
     }
 
     @Test
-    public void testValidaCartao() {
-        System.out.println("validaCartao");
-        Cliente instance = new Cliente();
-        boolean expResult = false;
-        boolean result = instance.validaCartao();
-        assertEquals(expResult, result);
-        fail("The test case is a prototype.");
+    public void testVerificaCreditoTrue() {
+        cliente.setLimiteCredito(1500);
+        assertTrue(cliente.verificaCredito(900));
     }
 
+    @Test
+    public void testValidaCartaoFalse() {
+        cliente.setNumeroCartaoCredito(-5);
+        assertFalse(cliente.validaCartao());
+    }
+
+    @Test
+    public void testValidaCartaoTrue() {
+        cliente.setNumeroCartaoCredito(5);
+        assertTrue(cliente.validaCartao());
+    }
 }
