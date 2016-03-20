@@ -6,8 +6,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-/**
- *
+/*
  * @author GambiarraWins
  */
 public final class ClienteJdbc extends AbstractJdbcDao<Cliente> {
