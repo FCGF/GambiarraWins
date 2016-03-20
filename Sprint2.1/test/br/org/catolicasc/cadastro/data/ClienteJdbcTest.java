@@ -10,10 +10,6 @@ import static org.junit.Assert.*;
 import org.junit.BeforeClass;
 import org.junit.Ignore;
 
-/**
- *
- * @author fkannenberg
- */
 public class ClienteJdbcTest {
 
     private static ClienteJdbc clienteJdbc;
