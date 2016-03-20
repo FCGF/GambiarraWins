@@ -1,6 +1,5 @@
 package br.org.catolicasc.cadastro.data;
 
-import br.org.catolicasc.cadastro.model.Categoria;
 import br.org.catolicasc.cadastro.model.Produto;
 import java.util.List;
 import org.junit.AfterClass;
@@ -11,7 +10,7 @@ import org.junit.Ignore;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author GambiarraWins
  */
 public class ProdutoJdbcTest {
 
@@ -49,7 +48,7 @@ public class ProdutoJdbcTest {
 
     @Test
     public void testCreate() throws Exception {
-        Produto actual = new Produto(0, new Categoria(1), "Teste", 4589.09, 759.98, 12, true);
+        Produto actual = new Produto(0, "nome");
         produtoJdbc.create(actual);
 
         assertNotEquals(0, actual.getId());
@@ -58,10 +57,6 @@ public class ProdutoJdbcTest {
         assertNotNull(persisted);
         assertEquals(persisted.getId(), actual.getId());
         assertEquals(persisted.getNome(), actual.getNome());
-        assertEquals(persisted.getPrecoUnitario(), actual.getPrecoUnitario(), 0);
-        assertEquals(persisted.getQuantidade(), actual.getQuantidade(), 0);
-        assertEquals(persisted.getEstoque(), actual.getEstoque());
-        assertEquals(persisted.getCategoria().getId(), actual.getCategoria().getId());
 
         produtoJdbc.delete(persisted);
 
@@ -80,7 +75,7 @@ public class ProdutoJdbcTest {
         final double QUANTIDADE = 4586.456;
         final double PRECO = 253.99;
 
-        Produto actual = new Produto(0, new Categoria(1), "Teste", 4589.09, 759.98, 12, true);
+        Produto actual = new Produto(0, "Teste");
         produtoJdbc.create(actual);
 
         assertNotEquals(0, actual.getId());
@@ -89,9 +84,6 @@ public class ProdutoJdbcTest {
         assertNotNull(persisted);
 
         persisted.setNome(NOME);
-        persisted.setEstoque(ESTOQUE);
-        persisted.setQuantidade(QUANTIDADE);
-        persisted.setPrecoUnitario(PRECO);
 
         produtoJdbc.update(persisted);
 
@@ -99,9 +91,6 @@ public class ProdutoJdbcTest {
         assertNotNull(persisted);
 
         assertEquals(NOME, persisted.getNome());
-        assertEquals(ESTOQUE, persisted.getEstoque(), 0);
-        assertEquals(QUANTIDADE, persisted.getQuantidade(), 0);
-        assertEquals(PRECO, persisted.getPrecoUnitario(), 0);
 
         produtoJdbc.delete(persisted);
 
@@ -116,7 +105,7 @@ public class ProdutoJdbcTest {
     @Test
     public void testDelete() throws Exception {
 
-        Produto actual = new Produto(0, new Categoria(1), "Teste", 4589.09, 759.98, 12, true);
+        Produto actual = new Produto(0, "Teste");
         produtoJdbc.create(actual);
 
         assertNotEquals(0, actual.getId());
