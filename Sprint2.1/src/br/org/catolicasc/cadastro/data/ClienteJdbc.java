@@ -10,12 +10,12 @@ import java.sql.SQLException;
  * @author GambiarraWins
  */
 public final class ClienteJdbc extends AbstractJdbcDao<Cliente> {
-    
+
     private final String findByNameSql;
-    
+
     public ClienteJdbc(ConnectionManager mngr) {
         super(mngr);
-        
+
         findAllSql = "SELECT ID, NOME, DATA_NASCIMENTO, LIMITE_CREDITO, NUMERO_CARTAO, CONTATO, ATIVO FROM CLIENTE";
         findByIdSql = "SELECT ID, NOME, DATA_NASCIMENTO, LIMITE_CREDITO, NUMERO_CARTAO, CONTATO, ATIVO FROM CLIENTE WHERE (ID=?)";
         findByNameSql = "SELECT ID, NOME, DATA_NASCIMENTO, LIMITE_CREDITO, NUMERO_CARTAO, CONTATO, ATIVO FROM CLIENTE WHERE (NOME LIKE ?)";
@@ -26,7 +26,7 @@ public final class ClienteJdbc extends AbstractJdbcDao<Cliente> {
         countAllSql = "SELECT COUNT(1) FROM CLIENTE";
 
     }
-    
+
     public Cliente findByName(String nome) throws SQLException, Exception {
         Cliente o = null;
         Connection conn = null;
@@ -53,20 +53,25 @@ public final class ClienteJdbc extends AbstractJdbcDao<Cliente> {
 
     @Override
     protected Cliente fillObject(ResultSet rs) throws SQLException {
-
         Cliente o = new Cliente();
-
-        o.setId(rs.getInt("id"));
-        o.setNome(rs.getString("nome"));
-        o.setAtivo(rs.getBoolean("ativo"));
-
+        o.setId(rs.getInt("ID"));
+        o.setNome(rs.getString("NOME"));
+        o.setDataNascimento(rs.getDate("DATA_NASCIMENTO"));
+        o.setLimiteCredito(rs.getDouble("LIMITE_CREDITO"));
+        o.setNumeroCartaoCredito(rs.getDouble("NUMERO_CARTAO"));
+        o.setContato(rs.getString("CONTATO"));
+        o.setAtivo(rs.getBoolean("ATIVO"));
         return o;
     }
 
     @Override
     protected int bindingObject(PreparedStatement stmt, Cliente o) throws SQLException {
         stmt.setString(1, o.getNome());
-        stmt.setBoolean(2, o.isAtivo());
-        return 3;
+        stmt.setDate(2, new java.sql.Date(o.getDataNascimento().getTime()));
+        stmt.setDouble(3, o.getLimiteCredito());
+        stmt.setDouble(4, o.getNumeroCartaoCredito());
+        stmt.setString(5, o.getContato());
+        stmt.setBoolean(6, o.isAtivo());
+        return 7;
     }
 }
