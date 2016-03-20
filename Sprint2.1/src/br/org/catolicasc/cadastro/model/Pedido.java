@@ -65,10 +65,6 @@ public class Pedido extends Entity {
         return itens;
     }
 
-    public void setItens(List<ItemPedido> itens) {
-        this.itens = itens;
-    }
-
     public StatusPedido getStatusPedido() {
         return statusPedido;
     }
