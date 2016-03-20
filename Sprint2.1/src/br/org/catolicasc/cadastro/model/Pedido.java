@@ -85,7 +85,7 @@ public class Pedido extends Entity {
     public double calcularPeso() {
         double pesoTotal = 0;
         for (ItemPedido item : itens) {
-            pesoTotal += item.getProduto().getPeso() * item.getQuantidade();
+            pesoTotal += item.getProduto().calculaPesoEmQuilo()* item.getQuantidade();
         }
         return pesoTotal;
     }
