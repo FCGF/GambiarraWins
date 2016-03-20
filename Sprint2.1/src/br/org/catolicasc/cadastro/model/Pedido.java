@@ -1,5 +1,6 @@
 package br.org.catolicasc.cadastro.model;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Date;
 
@@ -18,15 +19,18 @@ public class Pedido extends Entity {
 
     public Pedido() {
         super();
+        itens = new ArrayList<>();
     }
 
     public Pedido(int id) {
         super(id);
+        itens = new ArrayList<>();
     }
 
     public Pedido(Date data, int id) {
         super(id);
         this.data = data;
+        itens = new ArrayList<>();
     }
 
     public String getVendedor() {
@@ -85,7 +89,7 @@ public class Pedido extends Entity {
     public double calcularPeso() {
         double pesoTotal = 0;
         for (ItemPedido item : itens) {
-            pesoTotal += item.getProduto().calculaPesoEmQuilo()* item.getQuantidade();
+            pesoTotal += item.getProduto().calculaPesoEmQuilo() * item.getQuantidade();
         }
         return pesoTotal;
     }
