@@ -19,35 +19,32 @@ public class ProdutoJdbc extends AbstractJdbcDao<Produto> {
 
         findAllSql = "SELECT ID, NOME, PESO, QTDE_DISPONIVEL, UNIDADE_PESO FROM PRODUTO";
         findByIdSql = "SELECT ID, NOME, PESO, QTDE_DISPONIVEL, UNIDADE_PESO FROM PRODUTO WHERE (ID=?)";
+        findByNameSql = "SELECT ID, NOME, PESO, QTDE_DISPONIVEL, UNIDADE_PESO FROM PRODUTO WHERE (NOME LIKE ?) ";
         createSql = "INSERT INTO PRODUTO (NOME, PESO, QTDE_DISPONIVEL, UNIDADE_PESO) VALUES (?, ?, ?, ?)";
         updateSql = "UPDATE PRODUTO SET NOME=?, PESO=?, QTDE_DISPONIVEL=?, UNIDADE_PESO=? WHERE (ID=?)";
         deleteSql = "DELETE FROM produto WHERE (id=?)";
         deleteAllSql = "DELETE FROM produto";
         countAllSql = "SELECT COUNT(1) FROM produto";
-        findByNameSql = "SELECT ID, NOME, PESO, QTDE_DISPONIVEL, UNIDADE_PESO FROM PRODUTO WHERE (NOME LIKE ?) ";
-
     }
 
     @Override
     protected Produto fillObject(ResultSet rs) throws SQLException {
         Produto o = new Produto();
-        o.setId(rs.getInt("id"));
-        o.setNome(rs.getString("nome"));
-        o.setPeso(rs.getDouble("peso"));
-        o.setQtdeDisponivel(rs.getDouble("quantidade Disponivel"));
-        o.setUnidade(rs.getInt("indice"));
-
+        o.setId(rs.getInt("ID"));
+        o.setNome(rs.getString("NOME"));
+        o.setPeso(rs.getDouble("PESO"));
+        o.setQtdeDisponivel(rs.getDouble("QTDE_DISPONIVEL"));
+        o.setUnidade(rs.getInt("UNIDADE_PESO"));
         return o;
     }
 
     @Override
     protected int bindingObject(PreparedStatement stmt, Produto o) throws SQLException {
-        Produto p = (Produto) o;
-        stmt.setInt(1, p.getId());
-        stmt.setString(2, p.getNome());
-        stmt.setDouble(3, p.getPeso());
-        stmt.setDouble(4, p.getQtdeDisponivel());
-
+//        Produto p = (Produto) o;
+        stmt.setString(1, o.getNome());
+        stmt.setDouble(2, o.getPeso());
+        stmt.setDouble(3, o.getQtdeDisponivel());
+        stmt.setString(4, o.getUnidade().name());
         return 5;
     }
 
@@ -72,8 +69,6 @@ public class ProdutoJdbc extends AbstractJdbcDao<Produto> {
             close(stmt);
             close(rs);
         }
-
         return o;
-
     }
 }
