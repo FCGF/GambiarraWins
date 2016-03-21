@@ -12,10 +12,10 @@ public class Pedido extends Entity {
 
     private String vendedor;
     private String observacao;
-    Cliente cliente;
+    private Cliente cliente;
     private Date data;
-    List<ItemPedido> itens;
-    StatusPedido statusPedido;
+    private List<ItemPedido> itens;
+    private StatusPedido statusPedido;
 
     public Pedido() {
         super();
@@ -67,6 +67,10 @@ public class Pedido extends Entity {
 
     public List<ItemPedido> getItens() {
         return itens;
+    }
+
+    public void setItens(List<ItemPedido> itens) {
+        this.itens = itens;
     }
 
     public StatusPedido getStatusPedido() {
