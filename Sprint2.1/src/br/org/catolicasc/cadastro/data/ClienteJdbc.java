@@ -52,7 +52,7 @@ public final class ClienteJdbc extends AbstractJdbcDao<Cliente> {
     }
 
     @Override
-    protected Cliente fillObject(ResultSet rs) throws SQLException {
+    protected Cliente fillObject(ResultSet rs) throws SQLException, Exception {
         Cliente o = new Cliente();
         o.setId(rs.getInt("ID"));
         o.setNome(rs.getString("NOME"));
@@ -65,7 +65,7 @@ public final class ClienteJdbc extends AbstractJdbcDao<Cliente> {
     }
 
     @Override
-    protected int bindingObject(PreparedStatement stmt, Cliente o) throws SQLException {
+    protected int bindingObject(PreparedStatement stmt, Cliente o) throws SQLException, Exception {
         stmt.setString(1, o.getNome());
         stmt.setDate(2, new java.sql.Date(o.getDataNascimento().getTime()));
         stmt.setDouble(3, o.getLimiteCredito());

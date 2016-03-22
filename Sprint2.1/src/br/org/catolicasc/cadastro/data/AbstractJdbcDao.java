@@ -19,8 +19,7 @@ import org.apache.logging.log4j.Logger;
  */
 public abstract class AbstractJdbcDao<T extends IEntity> implements IDao<T> {
 
-    protected static final Logger LOGGER = LogManager.getLogger(AbstractJdbcDao.class
-    );
+    protected static final Logger LOGGER = LogManager.getLogger(AbstractJdbcDao.class);
 
     private ConnectionManager mngr = null;
 
@@ -212,9 +211,9 @@ public abstract class AbstractJdbcDao<T extends IEntity> implements IDao<T> {
         return allRows;
     }
 
-    protected abstract T fillObject(ResultSet rs) throws SQLException;
+    protected abstract T fillObject(ResultSet rs) throws SQLException, Exception;
 
-    protected abstract int bindingObject(PreparedStatement stmt, T o) throws SQLException;
+    protected abstract int bindingObject(PreparedStatement stmt, T o) throws SQLException, Exception;
 
     protected void rollback(Connection conn) throws SQLException {
         if (conn != null) {
