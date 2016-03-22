@@ -28,7 +28,7 @@ public class ProdutoJdbc extends AbstractJdbcDao<Produto> {
     }
 
     @Override
-    protected Produto fillObject(ResultSet rs) throws SQLException {
+    protected Produto fillObject(ResultSet rs) throws SQLException, Exception {
         Produto o = new Produto();
         o.setId(rs.getInt("ID"));
         o.setNome(rs.getString("NOME"));
@@ -39,7 +39,7 @@ public class ProdutoJdbc extends AbstractJdbcDao<Produto> {
     }
 
     @Override
-    protected int bindingObject(PreparedStatement stmt, Produto o) throws SQLException {
+    protected int bindingObject(PreparedStatement stmt, Produto o) throws SQLException, Exception {
 //        Produto p = (Produto) o;
         stmt.setString(1, o.getNome());
         stmt.setDouble(2, o.getPeso());
