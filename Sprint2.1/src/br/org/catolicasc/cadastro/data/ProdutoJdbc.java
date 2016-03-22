@@ -1,6 +1,7 @@
 package br.org.catolicasc.cadastro.data;
 
 import br.org.catolicasc.cadastro.model.Produto;
+import br.org.catolicasc.cadastro.model.UnidadePeso;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -22,9 +23,9 @@ public class ProdutoJdbc extends AbstractJdbcDao<Produto> {
         findByNameSql = "SELECT ID, NOME, PESO, QTDE_DISPONIVEL, UNIDADE_PESO FROM PRODUTO WHERE (NOME LIKE ?) ";
         createSql = "INSERT INTO PRODUTO (NOME, PESO, QTDE_DISPONIVEL, UNIDADE_PESO) VALUES (?, ?, ?, ?)";
         updateSql = "UPDATE PRODUTO SET NOME=?, PESO=?, QTDE_DISPONIVEL=?, UNIDADE_PESO=? WHERE (ID=?)";
-        deleteSql = "DELETE FROM produto WHERE (id=?)";
+        deleteSql = "DELETE FROM PRODUTO WHERE (id=?)";
         deleteAllSql = "DELETE FROM produto";
-        countAllSql = "SELECT COUNT(1) FROM produto";
+        countAllSql = "SELECT COUNT(1) FROM PRODUTO";
     }
 
     @Override
@@ -34,7 +35,7 @@ public class ProdutoJdbc extends AbstractJdbcDao<Produto> {
         o.setNome(rs.getString("NOME"));
         o.setPeso(rs.getDouble("PESO"));
         o.setQtdeDisponivel(rs.getDouble("QTDE_DISPONIVEL"));
-        o.setUnidade(rs.getInt("UNIDADE_PESO"));
+        o.setUnidade(UnidadePeso.valueOf(rs.getString("UNIDADE_PESO")));
         return o;
     }
 
