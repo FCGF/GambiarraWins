@@ -14,7 +14,7 @@ import org.junit.Before;
 
 /**
  *
- * @author rafael.chewinski
+ * @author rafael.chewinski,IgorFachini
  */
 public class ProdutoTest {
 

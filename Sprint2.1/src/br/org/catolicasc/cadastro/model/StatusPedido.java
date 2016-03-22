@@ -7,7 +7,7 @@ package br.org.catolicasc.cadastro.model;
 
 /**
  *
- * @author Cyber
+ * @author IgorFachini
  */
 public enum StatusPedido {
     PAGAMENTO_PENDENTE,
