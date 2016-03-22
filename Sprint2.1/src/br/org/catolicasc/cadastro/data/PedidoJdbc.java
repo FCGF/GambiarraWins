@@ -1,6 +1,5 @@
 package br.org.catolicasc.cadastro.data;
 
-import br.org.catolicasc.cadastro.model.Cliente;
 import br.org.catolicasc.cadastro.model.Pedido;
 import br.org.catolicasc.cadastro.model.StatusPedido;
 import java.sql.PreparedStatement;
@@ -30,24 +29,23 @@ public class PedidoJdbc extends AbstractJdbcDao<Pedido> {
     protected Pedido fillObject(ResultSet rs) throws SQLException, Exception {
         Pedido o = new Pedido();
 
-        int idCliente = rs.getInt("CLIENTE_ID");
-        ClienteJdbc clienteJdbc = new ClienteJdbc(ConnectionManager.getInstance());
-        Cliente cliente = clienteJdbc.findById(idCliente);
-
         o.setId(rs.getInt("ID"));
-        o.setCliente(cliente);
-        o.setData(Date.from(rs.getDate("DATA_PEDIDO").toInstant()));
+        long time = rs.getDate("DATA_PEDIDO").getTime();
+        o.setData(new Date(time));
         o.setVendedor(rs.getString("NOME_VENDEDOR"));
         o.setObservacao(rs.getString("OBSERVACAO"));
         o.setStatusPedido(StatusPedido.valueOf(rs.getString("STATUS_PEDIDO")));
-
+//        int idCliente = rs.getInt("CLIENTE_ID");
+//        ClienteJdbc clienteJdbc = new ClienteJdbc(ConnectionManager.getInstance());
+//        Cliente cliente = clienteJdbc.findById(idCliente);
+//        o.setCliente(cliente);
         return o;
     }
 
     @Override
     protected int bindingObject(PreparedStatement stmt, Pedido o) throws SQLException, Exception {
         stmt.setInt(1, o.getCliente().getId());
-        stmt.setDate(2, (java.sql.Date) o.getData());
+        stmt.setDate(2, new java.sql.Date(o.getData().getTime()));
         stmt.setString(3, o.getVendedor());
         stmt.setString(4, o.getObservacao());
         stmt.setString(5, o.getStatusPedido().name());
