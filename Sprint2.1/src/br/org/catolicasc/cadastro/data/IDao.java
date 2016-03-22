@@ -1,31 +1,28 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package br.org.catolicasc.cadastro.data;
 
 import br.org.catolicasc.cadastro.model.IEntity;
+import java.sql.SQLException;
 import java.util.List;
 
 /**
  *
  * @author GambiarraWins
+ * @param <T>
  */
-public interface IDao {
+public interface IDao<T extends IEntity> {
 
-    public int countAll();
+    public int countAll() throws SQLException, Exception;
 
-    public void create(IEntity o);
+    public void create(T o) throws SQLException, Exception;
 
-    public void delete(IEntity o);
+    public void delete(T o) throws SQLException, Exception;
 
-    public void deleteAll(IEntity o);
+    public void deleteAll() throws SQLException, Exception;
 
-    public List<IEntity> findAll();
+    public List<T> findAll() throws SQLException, Exception;
 
-    public IEntity findBy(int id);
+    public IEntity findById(int id) throws SQLException, Exception;
 
-    public void update(IEntity o);
+    public void update(T o) throws SQLException, Exception;
 
 }
