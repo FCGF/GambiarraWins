@@ -1,6 +1,7 @@
 package br.org.catolicasc.cadastro.data;
 
 import br.org.catolicasc.cadastro.model.Produto;
+import br.org.catolicasc.cadastro.model.UnidadePeso;
 import java.util.List;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
@@ -33,8 +34,12 @@ public class ProdutoJdbcTest {
     @Test
     public void testFindAll() throws Exception {
         List<Produto> produtos = produtoJdbc.findAll();
+        
         assertNotNull(produtos);
-        assertNotEquals(0, produtos.size());
+        assertNotSame(0, produtos.size());
+        for (Produto p : produtos) {
+            System.out.println(p);
+        }
     }
 
     @Test
@@ -49,6 +54,9 @@ public class ProdutoJdbcTest {
     @Test
     public void testCreate() throws Exception {
         Produto actual = new Produto(0, "nome");
+        actual.setPeso(0);
+        actual.setQtdeDisponivel(0);
+        actual.setUnidade(UnidadePeso.TONELADA);
         produtoJdbc.create(actual);
 
         assertNotEquals(0, actual.getId());
@@ -76,6 +84,9 @@ public class ProdutoJdbcTest {
         final double PRECO = 253.99;
 
         Produto actual = new Produto(0, "Teste");
+        actual.setPeso(0);
+        actual.setQtdeDisponivel(0);
+        actual.setUnidade(UnidadePeso.TONELADA);
         produtoJdbc.create(actual);
 
         assertNotEquals(0, actual.getId());
@@ -106,6 +117,9 @@ public class ProdutoJdbcTest {
     public void testDelete() throws Exception {
 
         Produto actual = new Produto(0, "Teste");
+        actual.setPeso(0);
+        actual.setQtdeDisponivel(0);
+        actual.setUnidade(UnidadePeso.TONELADA);
         produtoJdbc.create(actual);
 
         assertNotEquals(0, actual.getId());
@@ -133,7 +147,7 @@ public class ProdutoJdbcTest {
     @Test
     public void testCountAll() throws Exception {
         int actual = produtoJdbc.countAll();
-        assertNotEquals(0, actual);
+        assertTrue(actual > 0);
     }
 
 }
