@@ -10,6 +10,13 @@ import static org.junit.Assert.*;
 import org.junit.BeforeClass;
 import org.junit.Ignore;
 
+
+
+/**
+ *
+ * @author IgorFachini
+ */
+
 public class ClienteJdbcTest {
 
     private static ClienteJdbc clienteJdbc;
@@ -54,6 +61,7 @@ public class ClienteJdbcTest {
 
         Cliente actual = new Cliente(1, "Padaria do Zé", Date.from(Instant.now()), true);
 
+        actual.setContato("explode");
         clienteJdbc.create(actual);
 
         assertNotSame(0, actual.getId());

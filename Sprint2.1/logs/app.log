@@ -656,3 +656,608 @@
 2016.03.21 08:10:44 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
 2016.03.21 08:10:44 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
 2016.03.21 08:10:45 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:17:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:17:09 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:17:09 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:17:10 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:17:10 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:17:11 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:17:11 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:17:12 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:17:12 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:17:13 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:17:13 BRT [main] ERROR br.org.catolicasc.cadastro.data.AbstractJdbcDao 108 create - Erro ao executar SQL (create) com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'CONTATO' cannot be null
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_73]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_73]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.Util.getInstance(Util.java:360) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:971) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2530) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1907) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2141) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2077) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2062) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.AbstractJdbcDao.create(AbstractJdbcDao.java:102) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ClienteJdbcTest.testCreate(ClienteJdbcTest.java:64) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_73]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_73]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:38) [junit-4.12.jar:4.12]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:532) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1179) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:1030) [ant-junit.jar:?]
+
+2016.03.22 16:17:13 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:17:14 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:17:14 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:17:15 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:17:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:17:16 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:17:17 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:17:17 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:17:17 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:17:18 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:17:18 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:17:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:17:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:17:19 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:21:48 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:21:49 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:21:49 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:21:50 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:21:50 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:21:51 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:21:52 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:21:53 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:21:53 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:21:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:21:54 BRT [main] ERROR br.org.catolicasc.cadastro.data.AbstractJdbcDao 108 create - Erro ao executar SQL (create) com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'CONTATO' cannot be null
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_73]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_73]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.Util.getInstance(Util.java:360) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:971) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2530) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1907) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2141) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2077) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2062) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.AbstractJdbcDao.create(AbstractJdbcDao.java:102) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ClienteJdbcTest.testCreate(ClienteJdbcTest.java:64) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_73]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_73]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:38) [junit-4.12.jar:4.12]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:532) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1179) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:1030) [ant-junit.jar:?]
+
+2016.03.22 16:21:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:21:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:21:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:21:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:21:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:21:57 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:21:57 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:21:58 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:21:58 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:21:59 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:22:00 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:22:01 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:22:01 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:22:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:22:58 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:22:59 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:22:59 BRT [main] ERROR br.org.catolicasc.cadastro.data.AbstractJdbcDao 59 findAll - Erro ao executar SQL (findAll) java.sql.SQLException: Invalid value for getInt() - 'GRAMA'
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:996) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:935) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:924) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:870) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ResultSetImpl.getInt(ResultSetImpl.java:2500) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ResultSetImpl.getInt(ResultSetImpl.java:2566) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.ProdutoJdbc.fillObject(ProdutoJdbc.java:37) ~[classes/:?]
+	at br.org.catolicasc.cadastro.data.ProdutoJdbc.fillObject(ProdutoJdbc.java:13) ~[classes/:?]
+	at br.org.catolicasc.cadastro.data.AbstractJdbcDao.findAll(AbstractJdbcDao.java:55) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ProdutoJdbcTest.testFindAll(ProdutoJdbcTest.java:35) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_73]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_73]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:38) [junit-4.12.jar:4.12]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:532) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1179) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:1030) [ant-junit.jar:?]
+
+2016.03.22 16:22:59 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:23:00 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:23:00 BRT [main] ERROR br.org.catolicasc.cadastro.data.AbstractJdbcDao 83 findById - Erro ao executar SQL (findById) java.sql.SQLException: Invalid value for getInt() - 'GRAMA'
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:996) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:935) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:924) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:870) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ResultSetImpl.getInt(ResultSetImpl.java:2500) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ResultSetImpl.getInt(ResultSetImpl.java:2566) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.ProdutoJdbc.fillObject(ProdutoJdbc.java:37) ~[classes/:?]
+	at br.org.catolicasc.cadastro.data.ProdutoJdbc.fillObject(ProdutoJdbc.java:13) ~[classes/:?]
+	at br.org.catolicasc.cadastro.data.AbstractJdbcDao.findById(AbstractJdbcDao.java:80) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ProdutoJdbcTest.testFindById(ProdutoJdbcTest.java:43) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_73]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_73]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:38) [junit-4.12.jar:4.12]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:532) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1179) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:1030) [ant-junit.jar:?]
+
+2016.03.22 16:23:00 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:23:01 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:23:01 BRT [main] ERROR br.org.catolicasc.cadastro.data.AbstractJdbcDao 204 countAll - Erro ao executar SQL (countAll) com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'db_igor_fachini.produto' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_73]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_73]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.Util.getInstance(Util.java:360) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:978) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2530) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1907) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2030) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.AbstractJdbcDao.countAll(AbstractJdbcDao.java:199) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ProdutoJdbcTest.testCountAll(ProdutoJdbcTest.java:135) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_73]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_73]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:38) [junit-4.12.jar:4.12]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:532) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1179) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:1030) [ant-junit.jar:?]
+
+2016.03.22 16:23:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:23:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:23:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:23:04 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:23:04 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:23:04 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:24:25 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:24:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:24:26 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:24:27 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:24:28 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:24:29 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:24:29 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:24:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:24:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:24:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:24:30 BRT [main] ERROR br.org.catolicasc.cadastro.data.AbstractJdbcDao 109 create - Erro ao executar SQL (create) com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'CONTATO' cannot be null
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_73]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_73]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.Util.getInstance(Util.java:360) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:971) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2530) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1907) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2141) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2077) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2062) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.AbstractJdbcDao.create(AbstractJdbcDao.java:103) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ClienteJdbcTest.testCreate(ClienteJdbcTest.java:64) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_73]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_73]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:38) [junit-4.12.jar:4.12]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:532) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1179) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:1030) [ant-junit.jar:?]
+
+2016.03.22 16:24:30 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:24:31 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:24:31 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:24:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:24:32 BRT [main] ERROR br.org.catolicasc.cadastro.data.AbstractJdbcDao 165 delete - Erro ao executar SQL (delete) com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`db_igor_fachini`.`PEDIDO`, CONSTRAINT `PEDIDO_ibfk_1` FOREIGN KEY (`CLIENTE_ID`) REFERENCES `CLIENTE` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_73]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_73]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.Util.getInstance(Util.java:360) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:971) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2530) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1907) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2141) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2077) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2062) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.AbstractJdbcDao.delete(AbstractJdbcDao.java:157) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ClienteJdbcTest.testDelete(ClienteJdbcTest.java:111) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_73]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_73]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:38) [junit-4.12.jar:4.12]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:532) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1179) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:1030) [ant-junit.jar:?]
+
+2016.03.22 16:24:32 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:24:33 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:24:33 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:24:34 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:24:34 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:24:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:24:35 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:24:36 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:29:00 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:29:01 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:29:01 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:29:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:29:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:29:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:29:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:29:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:29:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:29:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:29:03 BRT [main] ERROR br.org.catolicasc.cadastro.data.AbstractJdbcDao 109 create - Erro ao executar SQL (create) com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'CONTATO' cannot be null
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_73]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_73]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.Util.getInstance(Util.java:360) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:971) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2530) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1907) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2141) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2077) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2062) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.AbstractJdbcDao.create(AbstractJdbcDao.java:103) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ClienteJdbcTest.testCreate(ClienteJdbcTest.java:64) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_73]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_73]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:38) [junit-4.12.jar:4.12]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:532) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1179) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:1030) [ant-junit.jar:?]
+
+2016.03.22 16:29:03 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:29:04 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:29:04 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:29:04 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:29:04 BRT [main] ERROR br.org.catolicasc.cadastro.data.AbstractJdbcDao 165 delete - Erro ao executar SQL (delete) com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`db_igor_fachini`.`PEDIDO`, CONSTRAINT `PEDIDO_ibfk_1` FOREIGN KEY (`CLIENTE_ID`) REFERENCES `CLIENTE` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_73]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_73]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.Util.getInstance(Util.java:360) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:971) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2530) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1907) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2141) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2077) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2062) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.AbstractJdbcDao.delete(AbstractJdbcDao.java:157) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ClienteJdbcTest.testDelete(ClienteJdbcTest.java:111) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_73]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_73]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:38) [junit-4.12.jar:4.12]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:532) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1179) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:1030) [ant-junit.jar:?]
+
+2016.03.22 16:29:04 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:29:05 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:29:05 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:29:05 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:29:05 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:29:05 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:29:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:29:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:30:22 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:30:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:30:23 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:30:24 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:30:24 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:30:25 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:30:25 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:30:27 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:31:14 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:31:15 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:31:44 BRT [main] ERROR br.org.catolicasc.cadastro.data.AbstractJdbcDao 109 create - Erro ao executar SQL (create) com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'CONTATO' cannot be null
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_73]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_73]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.Util.getInstance(Util.java:360) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:971) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2530) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1907) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2141) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2077) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2062) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.AbstractJdbcDao.create(AbstractJdbcDao.java:103) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ClienteJdbcTest.testCreate(ClienteJdbcTest.java:64) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_73]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_73]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:38) [junit-4.12.jar:4.12]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:532) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1179) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:1030) [ant-junit.jar:?]
+
+2016.03.22 16:32:00 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:32:01 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:32:01 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:32:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:32:02 BRT [main] ERROR br.org.catolicasc.cadastro.data.AbstractJdbcDao 165 delete - Erro ao executar SQL (delete) com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`db_igor_fachini`.`PEDIDO`, CONSTRAINT `PEDIDO_ibfk_1` FOREIGN KEY (`CLIENTE_ID`) REFERENCES `CLIENTE` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_73]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_73]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.Util.getInstance(Util.java:360) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:971) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2530) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1907) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2141) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2077) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2062) ~[mysql-connector-java-5.1.34-bin.jar:5.1.34]
+	at br.org.catolicasc.cadastro.data.AbstractJdbcDao.delete(AbstractJdbcDao.java:157) [classes/:?]
+	at br.org.catolicasc.cadastro.data.ClienteJdbcTest.testDelete(ClienteJdbcTest.java:111) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_73]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_73]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_73]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_73]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at junit.framework.JUnit4TestAdapter.run(JUnit4TestAdapter.java:38) [junit-4.12.jar:4.12]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:532) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:1179) [ant-junit.jar:?]
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:1030) [ant-junit.jar:?]
+
+2016.03.22 16:32:05 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:32:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:32:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:32:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:32:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:32:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:32:08 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:32:09 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:35:54 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:35:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:35:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:35:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:35:55 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:35:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:35:56 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:35:57 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:35:57 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:35:58 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:35:59 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:36:00 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:36:00 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:36:01 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:36:01 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:36:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:36:02 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:36:04 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:36:04 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:36:05 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:36:05 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:36:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
+2016.03.22 16:36:06 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 36 getConnection - Execute getConnection.
+2016.03.22 16:36:07 BRT [main] INFO  br.org.catolicasc.cadastro.data.ConnectionManager 43 getConnection - --> Connected success. Data Base Schema: db_igor_fachini
