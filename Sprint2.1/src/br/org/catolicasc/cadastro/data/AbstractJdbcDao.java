@@ -17,9 +17,10 @@ import org.apache.logging.log4j.Logger;
  * @author GambiarraWins
  * @param <T>
  */
-public abstract class AbstractJdbcDao<T extends IEntity> {
+public abstract class AbstractJdbcDao<T extends IEntity> implements IDao<T> {
 
-    protected static final Logger LOGGER = LogManager.getLogger(AbstractJdbcDao.class);
+    protected static final Logger LOGGER = LogManager.getLogger(AbstractJdbcDao.class
+    );
 
     private ConnectionManager mngr = null;
 
