@@ -56,7 +56,7 @@ public class ClienteJdbcTest {
     public void testFindByName() throws Exception {
         List<Cliente> produtos = clienteJdbc.findByNome("%a%");
         assertNotNull(produtos);
-        assertNotEquals(0, produtos.size());
+        assertFalse(produtos.isEmpty());
     }
 
     @Test
