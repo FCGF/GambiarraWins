@@ -13,8 +13,8 @@ import org.apache.logging.log4j.Logger;
 public final class ConnectionManager {
 
     private static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-    private static final String URL = "jdbc:mysql://10.197.8.203:3306/db_rafael_chewinski?useSSL=false";
-    private static final String USER = "rafael_chewinski";
+    private static final String URL = "jdbc:mysql://10.197.8.203:3306/db_igor_fachini?useSSL=false";
+    private static final String USER = "igor_fachini";
     private static final String PASSWORD = "abc123";
     
     private static Connection conn = null;

@@ -1,0 +1,107 @@
+2016.04.10 21:55:26 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 0; Nome: ddf; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.10 21:57:21 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 0; Nome: teste; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 00:22:31 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 0; Nome: tyt; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 00:30:55 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 0; Nome: aaaaa; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 00:49:04 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 0; Nome: fsdf; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 00:50:00 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 0; Nome: 53; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 00:50:02 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 29; Nome: 53; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 00:52:32 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 0; Nome: fff; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 00:52:35 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 30; Nome: fff; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 00:53:46 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 0; Nome: fdsf; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 00:53:51 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 31; Nome: fdsf; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 00:57:23 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 0; Nome: fgd; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 00:57:32 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 00:57:36 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 00:57:38 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 00:57:49 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 32; Nome: fgd; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 00:57:51 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:31:16 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:31:21 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:31:25 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:31:28 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:31:39 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:33:09 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:36:22 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:36:27 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 25; Nome: teste; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 21:36:45 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:36:54 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 24; Nome: ddf; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 21:37:02 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:37:02 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:37:12 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:37:21 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 24; Nome: ddf; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 21:37:38 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:39:20 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:39:27 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 24; Nome: ddf; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 21:39:36 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:39:39 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 24; Nome: ddf; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 21:39:50 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:39:54 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 35; Nome: ddf; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 21:39:55 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:39:58 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 35; Nome: ddf; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 21:46:10 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:46:41 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:46:47 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 2; Nome: Farinha de trigo; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 21:46:56 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:57:29 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 0; Nome: wsw; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 21:57:40 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:57:48 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:57:59 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 36; Nome: wsw; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 21:57:59 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:58:05 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 36; Nome: wsw; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 21:58:16 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 36; Nome: wsw; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 21:58:17 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:58:21 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:58:21 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:58:28 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 36; Nome: wsw; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 21:58:29 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:58:38 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:58:50 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:59:39 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:59:46 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 36; Nome: wsw; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 21:59:48 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:59:50 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:59:51 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:59:51 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:59:51 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:59:51 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:59:52 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:59:52 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:59:53 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 21:59:53 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:03:22 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:03:37 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 36; Nome: wsw; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 22:03:41 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:03:43 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:06:08 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:06:17 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 36; Nome: wsw; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 22:06:20 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:06:25 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:06:31 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:06:48 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 36; Nome: wsw; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 22:06:50 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:06:52 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:06:52 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:06:52 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:06:52 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:07:52 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:10:20 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:10:47 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 36; Nome: wsw; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 22:10:48 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:10:49 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:10:49 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:10:50 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:10:50 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:10:50 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:10:50 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:10:54 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 36; Nome: wsw; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 22:11:00 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:11:24 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 36; Nome: wsw; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 22:11:30 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:11:39 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 36; Nome: wsw; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 22:12:36 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:12:48 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 1; Nome: Farinha de mandioca; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 22:12:50 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:13:03 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 0; Nome: 5345; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 22:13:10 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 37; Nome: 5345; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
+2016.04.11 22:13:10 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.11 22:13:14 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 37; Nome: 5345; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null
