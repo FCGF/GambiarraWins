@@ -64,7 +64,7 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
         lblQuantidadeDisponivel = new javax.swing.JLabel();
         txtQuantidadeDisponivel = new javax.swing.JFormattedTextField();
         lblUnidadePeso = new javax.swing.JLabel();
-        cmbUnidade = new javax.swing.JComboBox<>();
+        cmbUnidade = new javax.swing.JComboBox<String>();
         mnuArquivo = new javax.swing.JMenuBar();
         mniArquivo = new javax.swing.JMenu();
         mniNovo = new javax.swing.JMenuItem();
@@ -224,7 +224,7 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
         gridBagConstraints.anchor = java.awt.GridBagConstraints.LAST_LINE_START;
         pnlFormulario.add(lblUnidadePeso, gridBagConstraints);
 
-        cmbUnidade.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
+        cmbUnidade.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         cmbUnidade.setPreferredSize(new java.awt.Dimension(64, 27));
         final DefaultComboBoxModel comboModel = ComboHelper.createModel(UnidadePeso.values());
         cmbUnidade.setModel(comboModel);

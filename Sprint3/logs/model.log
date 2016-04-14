@@ -308,3 +308,212 @@
 2016.04.13 19:21:05 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
 2016.04.13 19:21:05 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
 2016.04.13 19:21:05 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:15 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:15 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 32 <init> - Criando Cliente -> ID: 0; Nome: Padaria do Zé; Data de Nascimento: 04/13/16; Limite: 0,00; Cartão: 0; Ativo: false
+2016.04.13 19:27:16 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 32 <init> - Criando Cliente -> ID: 0; Nome: Padaria do Zé; Data de Nascimento: 04/13/16; Limite: 0,00; Cartão: 0; Ativo: true
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 32 <init> - Criando Cliente -> ID: 0; Nome: Padaria do Zé; Data de Nascimento: 06/10/00; Limite: 0,00; Cartão: 0; Ativo: false
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 32 <init> - Criando Cliente -> ID: 0; Nome: Padaria do Zé; Data de Nascimento: 06/10/00; Limite: 0,00; Cartão: 0; Ativo: false
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:17 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:20 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 24 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:20 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 25 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:20 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:21 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 1; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 10; Preço = 4,55
+2016.04.13 19:27:21 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 2; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 1; Preço = 2,25
+2016.04.13 19:27:21 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 3; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 7; Preço = 10,89
+2016.04.13 19:27:21 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 18 <init> - Criando Item de Pedido pelo construtor padrão.
+2016.04.13 19:27:21 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:21 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:22 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 24 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:22 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 25 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:22 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:22 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 1; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 10; Preço = 4,55
+2016.04.13 19:27:22 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 2; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 1; Preço = 2,25
+2016.04.13 19:27:22 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 3; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 7; Preço = 10,89
+2016.04.13 19:27:23 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 18 <init> - Criando Item de Pedido pelo construtor padrão.
+2016.04.13 19:27:23 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:23 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:23 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 18 <init> - Criando Item de Pedido pelo construtor padrão.
+2016.04.13 19:27:23 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:23 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:23 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 18 <init> - Criando Item de Pedido pelo construtor padrão.
+2016.04.13 19:27:23 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:23 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:24 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 24 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:24 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 25 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:24 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:25 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 1; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 10; Preço = 4,55
+2016.04.13 19:27:25 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 2; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 1; Preço = 2,25
+2016.04.13 19:27:25 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 3; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 7; Preço = 10,89
+2016.04.13 19:27:26 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 24 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:26 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 25 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:26 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:26 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 1; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 10; Preço = 4,55
+2016.04.13 19:27:26 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 2; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 1; Preço = 2,25
+2016.04.13 19:27:26 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 3; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 7; Preço = 10,89
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 18 <init> - Criando Item de Pedido pelo construtor padrão.
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 24 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 25 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 1; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 10; Preço = 4,55
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 2; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 1; Preço = 2,25
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 28 <init> - Criando ItemPedido -> ID = 0; Produto = Produto -> ID: 3; Nome: null; Peso: 0,00; Qtde Disponível: 0,00; Unidade: null; Qtde = 7; Preço = 10,89
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 18 <init> - Criando Item de Pedido pelo construtor padrão.
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 18 <init> - Criando Item de Pedido pelo construtor padrão.
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 18 <init> - Criando Item de Pedido pelo construtor padrão.
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:28 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:29 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 18 <init> - Criando Item de Pedido pelo construtor padrão.
+2016.04.13 19:27:29 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:29 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:29 BRT [main] INFO  br.org.catolicasc.vendas.model.ItemPedido 18 <init> - Criando Item de Pedido pelo construtor padrão.
+2016.04.13 19:27:29 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:29 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 24 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 25 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:32 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:33 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 24 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:33 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 25 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:33 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:33 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 24 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:33 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 25 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:33 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:34 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:34 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:34 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:34 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 24 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:34 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 25 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:34 BRT [main] INFO  br.org.catolicasc.vendas.model.Pedido 24 <init> - Criando Pedido pelo construtor padrão.
+2016.04.13 19:27:34 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:34 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:36 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:37 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:38 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:38 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:38 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:38 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:38 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:38 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:38 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:38 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:38 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:38 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:39 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:39 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:39 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:39 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:39 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:39 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:39 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:39 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:39 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:39 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:39 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:39 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:39 BRT [main] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrão.
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 32 <init> - Criando Cliente -> ID: 890; Nome: Pedro de Alcantara; Data de Nascimento: 11/14/00; Limite: 0,00; Cartão: 0; Ativo: false
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 32 <init> - Criando Cliente -> ID: 890; Nome: Pedro de Alcantara; Data de Nascimento: 11/14/00; Limite: 0,00; Cartão: 0; Ativo: true
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 82 validaCartao - Cartão número 0 Válido: false
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 82 validaCartao - Cartão número -85478 Válido: false
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 82 validaCartao - Cartão número 999999999 Válido: true
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:41 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 69 verificaCredito - Verifica Credito, limite: 0,00, valor da compra: 10,00
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 73 verificaCredito - Crédito Válido: false
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 69 verificaCredito - Verifica Credito, limite: 0,00, valor da compra: 0,00
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 73 verificaCredito - Crédito Válido: false
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 69 verificaCredito - Verifica Credito, limite: 0,00, valor da compra: -10,00
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 73 verificaCredito - Crédito Válido: false
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 69 verificaCredito - Verifica Credito, limite: 100,00, valor da compra: 10,00
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 73 verificaCredito - Crédito Válido: true
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 69 verificaCredito - Verifica Credito, limite: 100,00, valor da compra: 0,00
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 73 verificaCredito - Crédito Válido: false
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 69 verificaCredito - Verifica Credito, limite: 100,00, valor da compra: -10,00
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 73 verificaCredito - Crédito Válido: false
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 69 verificaCredito - Verifica Credito, limite: 100,00, valor da compra: 99,90
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 73 verificaCredito - Crédito Válido: true
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 69 verificaCredito - Verifica Credito, limite: 100,00, valor da compra: 100,00
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 73 verificaCredito - Crédito Válido: false
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Pessoa 18 <init> - Criando Pessoa pelo construtor padrão.
+2016.04.13 19:27:42 BRT [main] INFO  br.org.catolicasc.vendas.model.Cliente 19 <init> - Criando Cliente pelo construtor padrão.
+2016.04.13 19:50:40 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrÃ£o.
+2016.04.13 19:51:25 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 19 <init> - Criando Produto pelo construtor padrÃ£o.
+2016.04.13 19:51:41 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 24; Nome: putaria; Peso: 0,00; Qtde DisponÃ­vel: 0,00; Unidade: null
+2016.04.13 19:52:12 BRT [AWT-EventQueue-0] INFO  br.org.catolicasc.vendas.model.Produto 30 <init> - Criando Produto -> ID: 0; Nome: Enigma do Milenio; Peso: 0,00; Qtde DisponÃ­vel: 0,00; Unidade: null
