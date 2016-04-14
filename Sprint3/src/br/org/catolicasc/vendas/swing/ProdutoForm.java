@@ -182,10 +182,10 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
         gridBagConstraints.anchor = java.awt.GridBagConstraints.LAST_LINE_START;
         pnlFormulario.add(txtNome, gridBagConstraints);
 
-        lblPeso.setText("Peso (kg):");
+        lblPeso.setText("Peso:");
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 0;
-        gridBagConstraints.gridy = 4;
+        gridBagConstraints.gridy = 6;
         gridBagConstraints.fill = java.awt.GridBagConstraints.BOTH;
         gridBagConstraints.anchor = java.awt.GridBagConstraints.LAST_LINE_START;
         pnlFormulario.add(lblPeso, gridBagConstraints);
@@ -194,7 +194,7 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
         txtPeso.setPreferredSize(new java.awt.Dimension(70, 27));
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 2;
-        gridBagConstraints.gridy = 4;
+        gridBagConstraints.gridy = 6;
         gridBagConstraints.fill = java.awt.GridBagConstraints.BOTH;
         gridBagConstraints.anchor = java.awt.GridBagConstraints.LAST_LINE_START;
         pnlFormulario.add(txtPeso, gridBagConstraints);
@@ -202,7 +202,7 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
         lblQuantidadeDisponivel.setText("Quantidade:");
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 0;
-        gridBagConstraints.gridy = 6;
+        gridBagConstraints.gridy = 4;
         gridBagConstraints.fill = java.awt.GridBagConstraints.BOTH;
         gridBagConstraints.anchor = java.awt.GridBagConstraints.LAST_LINE_START;
         pnlFormulario.add(lblQuantidadeDisponivel, gridBagConstraints);
@@ -211,7 +211,7 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
         txtQuantidadeDisponivel.setPreferredSize(new java.awt.Dimension(100, 27));
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 2;
-        gridBagConstraints.gridy = 6;
+        gridBagConstraints.gridy = 4;
         gridBagConstraints.fill = java.awt.GridBagConstraints.BOTH;
         gridBagConstraints.anchor = java.awt.GridBagConstraints.LAST_LINE_START;
         pnlFormulario.add(txtQuantidadeDisponivel, gridBagConstraints);
