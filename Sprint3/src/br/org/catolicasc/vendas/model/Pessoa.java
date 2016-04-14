@@ -5,7 +5,7 @@ import java.util.Date;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public abstract class Pessoa extends Entity {
+public abstract class Pessoa extends Entity implements IPessoa {
 
     private static final Logger LOGGER = LogManager.getLogger(Pessoa.class);
 
@@ -32,22 +32,27 @@ public abstract class Pessoa extends Entity {
         LOGGER.info("Criando " + this);
     }
 
+    @Override
     public String getNome() {
         return nome;
     }
 
+    @Override
     public void setNome(String nome) {
         this.nome = nome;
     }
 
+    @Override
     public Date getDataNascimento() {
         return dataNascimento;
     }
 
+    @Override
     public void setDataNascimento(Date dataNascimento) {
         this.dataNascimento = dataNascimento;
     }
 
+    @Override
     public int calculaIdade() {
         Calendar nascimento = Calendar.getInstance();
         Calendar atual = Calendar.getInstance();

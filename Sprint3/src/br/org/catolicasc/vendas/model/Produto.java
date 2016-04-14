@@ -4,7 +4,7 @@ import br.org.catolicasc.vendas.util.ConversorPeso;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class Produto extends Entity {
+public class Produto extends Entity implements IProduto {
 
     private static final Logger LOGGER = LogManager.getLogger(Produto.class);
 
@@ -37,22 +37,27 @@ public class Produto extends Entity {
         this.unidadePeso = unidadePeso;
     }
 
+    @Override
     public String getNome() {
         return nome;
     }
 
+    @Override
     public void setNome(String nome) {
         this.nome = nome;
     }
 
+    @Override
     public double getPeso() {
         return peso;
     }
 
+    @Override
     public void setPeso(double peso) {
         this.peso = peso;
     }
 
+    @Override
     public double calculaPesoEmQuilo() {
         double pesoQuilo = ConversorPeso.ConverterUnidade(getPeso(), getUnidadePeso(), UnidadePeso.QUILOGRAMA);
 
@@ -61,18 +66,22 @@ public class Produto extends Entity {
         return pesoQuilo;
     }
 
+    @Override
     public double getQtdeDisponivel() {
         return qtdeDisponivel;
     }
 
+    @Override
     public void setQtdeDisponivel(double qtdeDisponivel) {
         this.qtdeDisponivel = qtdeDisponivel;
     }
 
+    @Override
     public UnidadePeso getUnidadePeso() {
         return unidadePeso;
     }
 
+    @Override
     public void setUnidadePeso(UnidadePeso unidadePeso) {
         this.unidadePeso = unidadePeso;
     }

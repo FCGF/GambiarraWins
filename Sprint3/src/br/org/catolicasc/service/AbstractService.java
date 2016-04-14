@@ -1,5 +1,4 @@
-
-package br.org.catolicasc.service;
+package br.org.catolicasc.vendas.service;
 
 import br.org.catolicasc.vendas.data.IDao;
 import br.org.catolicasc.vendas.model.IEntity;
@@ -7,21 +6,27 @@ import java.util.List;
 
 /**
  *
- * @author Guilherme
+ * @author flavio.kannenberg
+ * @param <T>
+ * @param <K>
  */
-public abstract class AbstractService <T extends IEntity> implements IService<T> {
+public abstract class AbstractService<T extends IEntity, K extends IDao<T>> implements IService<T, K> {
 
-    private IDao<T> dao;
-    
-    public AbstractService(){
+    private K dao;
+
+    public AbstractService() {
         super();
     }
-    
-    public AbstractService(IDao<T> dao){
+
+    public AbstractService(K dao) {
         this();
         this.dao = dao;
     }
-    
+
+    protected K getDao() {
+        return dao;
+    }
+
     @Override
     public int countAll() throws Exception {
         // ficam as outras regras de negocio...
@@ -57,5 +62,5 @@ public abstract class AbstractService <T extends IEntity> implements IService<T>
     public void update(T o) throws Exception {
         dao.update(o);
     }
-    
+
 }

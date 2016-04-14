@@ -4,7 +4,7 @@ import java.util.Date;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class Cliente extends Pessoa {
+public class Cliente extends Pessoa implements ICliente {
 
     private static final Logger LOGGER = LogManager.getLogger(Cliente.class);
 
@@ -32,38 +32,47 @@ public class Cliente extends Pessoa {
         LOGGER.info("Criando " + this);
     }
 
+    @Override
     public double getLimiteCredito() {
         return limiteCredito;
     }
 
+    @Override
     public void setLimiteCredito(double limiteCredito) {
         this.limiteCredito = limiteCredito;
     }
 
+    @Override
     public int getNumeroCartaoCredito() {
         return numeroCartaoCredito;
     }
 
+    @Override
     public void setNumeroCartaoCredito(int numeroCartaoCredito) {
         this.numeroCartaoCredito = numeroCartaoCredito;
     }
 
+    @Override
     public String getContato() {
         return contato;
     }
 
+    @Override
     public void setContato(String contato) {
         this.contato = contato;
     }
 
+    @Override
     public boolean isAtivo() {
         return ativo;
     }
 
+    @Override
     public void setAtivo(boolean ativo) {
         this.ativo = ativo;
     }
 
+    @Override
     public boolean verificaCredito(double valorCompra) {
 
         LOGGER.info(String.format("Verifica Credito, limite: %.2f, valor da compra: %.2f", getLimiteCredito(), valorCompra));
@@ -75,6 +84,7 @@ public class Cliente extends Pessoa {
         return valido;
     }
 
+    @Override
     public boolean validaCartao() {
 
         boolean valido = (getNumeroCartaoCredito() > 0);

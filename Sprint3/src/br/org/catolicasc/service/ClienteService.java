@@ -1,30 +1,33 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package br.org.catolicasc.service;
+package br.org.catolicasc.vendas.service;
 
-import br.org.catolicasc.vendas.data.IDao;
-import br.org.catolicasc.vendas.model.Cliente;
+import br.org.catolicasc.vendas.data.ClienteJdbc;
+import br.org.catolicasc.vendas.data.ConnectionManager;
+import br.org.catolicasc.vendas.data.IClienteJdbc;
+import br.org.catolicasc.vendas.model.ICliente;
 
 /**
  *
- * @author Guilherme
+ * @author flavio.kannenberg
  */
-public class ClienteService extends AbstractService<Cliente> implements IService<Cliente>{
-    
+public class ClienteService extends AbstractService<ICliente, IClienteJdbc>
+        implements IClienteService {
+
     private static ClienteService instance;
-    
-    private ClienteService(){
+
+    private ClienteService() {
         super();
     }
-    
-    public ClienteService(IDao<Cliente> dao){
+
+    private ClienteService(IClienteJdbc dao) {
         super(dao);
     }
-    
-    public static ClienteService getInstant(){
-        return new ClienteService();
+
+    public static ClienteService getInstance() {
+        if (instance == null) {
+            instance = new ClienteService(
+                    new ClienteJdbc(ConnectionManager.getInstance()));
+        }
+        return instance;
     }
+
 }

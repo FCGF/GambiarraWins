@@ -1,6 +1,7 @@
 package br.org.catolicasc.vendas.data;
 
 import br.org.catolicasc.vendas.model.Cliente;
+import br.org.catolicasc.vendas.model.ICliente;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
@@ -31,11 +32,11 @@ public class ClienteJdbcTest {
     @Test
     public void testFindAll() throws Exception {
 
-        List<Cliente> clientes = clienteJdbc.findAll();
+        List<ICliente> clientes = clienteJdbc.findAll();
 
         assertNotNull(clientes);
         assertNotSame(0, clientes.size());
-        for (Cliente c : clientes) {
+        for (ICliente c : clientes) {
             assertNotNull(c);
             assertNotSame(0, c.getId());
         }
@@ -45,7 +46,7 @@ public class ClienteJdbcTest {
     @Test
     public void testFindById() throws Exception {
 
-        Cliente c = clienteJdbc.findById(1);
+        ICliente c = clienteJdbc.findById(1);
         assertNotNull(c);
 
         c = clienteJdbc.findById(999);
@@ -54,7 +55,7 @@ public class ClienteJdbcTest {
     
      @Test
     public void testFindByName() throws Exception {
-        List<Cliente> produtos = clienteJdbc.findByNome("%a%");
+        List<ICliente> produtos = clienteJdbc.findByNome("%a%");
         assertNotNull(produtos);
         assertFalse(produtos.isEmpty());
     }
@@ -83,7 +84,7 @@ public class ClienteJdbcTest {
 
         int currentId = actual.getId();
 
-        Cliente cliente = clienteJdbc.findById(currentId);
+        ICliente cliente = clienteJdbc.findById(currentId);
 
         SimpleDateFormat format = new SimpleDateFormat("dd-MM-yyyy");
 
@@ -100,7 +101,7 @@ public class ClienteJdbcTest {
     @Test
     public void testUpdate() throws Exception {
 
-        Cliente c = clienteJdbc.findById(1);
+        ICliente c = clienteJdbc.findById(1);
         assertNotNull(c);
         assertTrue(c.isAtivo());
         c.setAtivo(false);
@@ -124,11 +125,11 @@ public class ClienteJdbcTest {
 
         clienteJdbc.create(actual);
 
-        List<Cliente> clientes = clienteJdbc.findAll();
+        List<ICliente> clientes = clienteJdbc.findAll();
 
         assertNotNull(clientes);
 
-        Cliente c = clientes.get(clientes.size() - 1);
+        ICliente c = clientes.get(clientes.size() - 1);
 
         System.out.println("Excluir: " + c);
 

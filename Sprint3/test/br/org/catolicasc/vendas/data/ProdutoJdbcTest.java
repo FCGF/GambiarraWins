@@ -1,6 +1,7 @@
 package br.org.catolicasc.vendas.data;
 
 import br.org.catolicasc.vendas.model.IEntity;
+import br.org.catolicasc.vendas.model.IProduto;
 import br.org.catolicasc.vendas.model.Produto;
 import br.org.catolicasc.vendas.model.UnidadePeso;
 import java.util.List;
@@ -30,7 +31,7 @@ public class ProdutoJdbcTest {
     @Test
     public void testFindAll() throws Exception {
 
-        List<Produto> produtos = produtoJdbc.findAll();
+        List<IProduto> produtos = produtoJdbc.findAll();
 
         assertNotNull(produtos);
         assertNotSame(0, produtos.size());
@@ -53,7 +54,7 @@ public class ProdutoJdbcTest {
 
     @Test
     public void testFindByName() throws Exception {
-        List<Produto> produtos = produtoJdbc.findByNome("%a%");
+        List<IProduto> produtos = produtoJdbc.findByNome("%a%");
         assertNotNull(produtos);
         assertFalse(produtos.isEmpty());
     }
@@ -76,7 +77,7 @@ public class ProdutoJdbcTest {
 
         assertNotSame(0, p.getId());
 
-        Produto actual = produtoJdbc.findById(p.getId());
+        IProduto actual = produtoJdbc.findById(p.getId());
 
         assertEquals(NOME, actual.getNome());
         assertEquals(PESO, actual.getPeso(), 0.0);
@@ -94,7 +95,7 @@ public class ProdutoJdbcTest {
         final double QUANTIDADE = 4.55;
         final UnidadePeso UNIDADE = UnidadePeso.GRAMA;
 
-        Produto p = new Produto();
+        IProduto p = new Produto();
         p.setNome(NOME);
         p.setPeso(PESO);
         p.setQtdeDisponivel(QUANTIDADE);
@@ -104,7 +105,7 @@ public class ProdutoJdbcTest {
 
         assertNotSame(0, p.getId());
 
-        Produto actual = produtoJdbc.findById(p.getId());
+        IProduto actual = produtoJdbc.findById(p.getId());
 
         assertEquals(NOME, actual.getNome());
         assertEquals(PESO, actual.getPeso(), 0.0);

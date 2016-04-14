@@ -1,6 +1,7 @@
 package br.org.catolicasc.vendas.data;
 
 import br.org.catolicasc.vendas.model.Cliente;
+import br.org.catolicasc.vendas.model.ICliente;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -12,7 +13,7 @@ import java.util.List;
  *
  * @author fkannenberg
  */
-public final class ClienteJdbc extends AbstractJdbcDao<Cliente> {
+public final class ClienteJdbc extends AbstractJdbcDao<ICliente> implements IClienteJdbc {
 
     private final String findByNameSql = "SELECT * FROM CLIENTE WHERE (NOME LIKE ?)";
     
@@ -29,13 +30,14 @@ public final class ClienteJdbc extends AbstractJdbcDao<Cliente> {
 
     }
     
-    public List<Cliente> findByNome(String nome) throws SQLException, Exception {
+    @Override
+    public List<ICliente> findByNome(String nome) throws SQLException, Exception {
         return executeQuery(findByNameSql, nome);
     }
 
     @Override
-    protected Cliente fillObject(ResultSet rs) throws SQLException {
-        Cliente o = new Cliente();
+    protected ICliente fillObject(ResultSet rs) throws SQLException {
+        ICliente o = new Cliente();
         o.setId(rs.getInt("ID"));
         o.setNome(rs.getString("NOME"));
 
@@ -50,9 +52,9 @@ public final class ClienteJdbc extends AbstractJdbcDao<Cliente> {
     }
 
     @Override
-    protected int bindingObject(PreparedStatement stmt, Cliente o) throws SQLException {
+    protected int bindingObject(PreparedStatement stmt, ICliente o) throws SQLException {
         int parameterIndex = 1;
-        Cliente c = (Cliente) o;
+        ICliente c = (Cliente) o;
         stmt.setString(parameterIndex++, c.getNome());
         stmt.setDate(parameterIndex++, new java.sql.Date(c.getDataNascimento().getTime()));
         stmt.setDouble(parameterIndex++, c.getLimiteCredito());

@@ -5,10 +5,10 @@
  */
 package br.org.catolicasc.vendas.swing;
 
-import br.org.catolicasc.vendas.data.ConnectionManager;
-import br.org.catolicasc.vendas.data.ProdutoJdbc;
+import br.org.catolicasc.vendas.model.IProduto;
 import br.org.catolicasc.vendas.model.Produto;
 import br.org.catolicasc.vendas.model.UnidadePeso;
+import br.org.catolicasc.vendas.service.ProdutoService;
 import br.org.catolicasc.vendas.util.KeyValue;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -24,13 +24,10 @@ import javax.swing.text.NumberFormatter;
  */
 public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
 
-    private final ProdutoJdbc produtoJdbc;
-
     /**
      * Creates new form ProdutoForm
      */
     public ProdutoForm() {
-        produtoJdbc = new ProdutoJdbc(ConnectionManager.getInstance());
         initComponents();
     }
 
@@ -182,10 +179,10 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
         gridBagConstraints.anchor = java.awt.GridBagConstraints.LAST_LINE_START;
         pnlFormulario.add(txtNome, gridBagConstraints);
 
-        lblPeso.setText("Peso:");
+        lblPeso.setText("Peso (kg):");
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 0;
-        gridBagConstraints.gridy = 6;
+        gridBagConstraints.gridy = 4;
         gridBagConstraints.fill = java.awt.GridBagConstraints.BOTH;
         gridBagConstraints.anchor = java.awt.GridBagConstraints.LAST_LINE_START;
         pnlFormulario.add(lblPeso, gridBagConstraints);
@@ -194,7 +191,7 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
         txtPeso.setPreferredSize(new java.awt.Dimension(70, 27));
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 2;
-        gridBagConstraints.gridy = 6;
+        gridBagConstraints.gridy = 4;
         gridBagConstraints.fill = java.awt.GridBagConstraints.BOTH;
         gridBagConstraints.anchor = java.awt.GridBagConstraints.LAST_LINE_START;
         pnlFormulario.add(txtPeso, gridBagConstraints);
@@ -202,7 +199,7 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
         lblQuantidadeDisponivel.setText("Quantidade:");
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 0;
-        gridBagConstraints.gridy = 4;
+        gridBagConstraints.gridy = 6;
         gridBagConstraints.fill = java.awt.GridBagConstraints.BOTH;
         gridBagConstraints.anchor = java.awt.GridBagConstraints.LAST_LINE_START;
         pnlFormulario.add(lblQuantidadeDisponivel, gridBagConstraints);
@@ -211,7 +208,7 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
         txtQuantidadeDisponivel.setPreferredSize(new java.awt.Dimension(100, 27));
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 2;
-        gridBagConstraints.gridy = 4;
+        gridBagConstraints.gridy = 6;
         gridBagConstraints.fill = java.awt.GridBagConstraints.BOTH;
         gridBagConstraints.anchor = java.awt.GridBagConstraints.LAST_LINE_START;
         pnlFormulario.add(txtQuantidadeDisponivel, gridBagConstraints);
@@ -419,14 +416,14 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
         int resposta = JOptionPane.showConfirmDialog(null, "Deseja Salvar o registro?", "Atenção!", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
 
         if (resposta == JOptionPane.YES_OPTION) {
-            Produto produto = null;
+            IProduto produto = null;
             try {
                 produto = getProduto();
 
                 if (produto.getId() == 0) {
-                    produtoJdbc.create(produto);
+                    ProdutoService.getInstance().create(produto);
                 } else {
-                    produtoJdbc.update(produto);
+                    ProdutoService.getInstance().update(produto);
                 }
 
                 txtCodigo.setText(produto.getId() + "");
@@ -454,7 +451,8 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
                 id = Integer.valueOf(txtCodigo.getText());
             }
 
-            Produto produto = produtoJdbc.findById(id);
+            IProduto produto = ProdutoService.getInstance().findById(id);
+            
             carrega(produto);
 
         } catch (Exception ex) {
@@ -471,7 +469,7 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
         txtNome.requestFocus();
     }
 
-    private void carrega(Produto produto) {
+    private void carrega(IProduto produto) {
         if (produto != null) {
 
             final NumberFormat numberFormatter = NumberFormat.getNumberInstance();
@@ -495,7 +493,7 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
 
                 try {
                     int id = Integer.valueOf(txtCodigo.getText());
-                    produtoJdbc.delete(getProduto());
+                    ProdutoService.getInstance().delete(getProduto());
                     limpa();
                 } catch (Exception ex) {
                     btnExcluir.setEnabled(false);
@@ -541,7 +539,7 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
             if (fieldValue != null && !fieldValue.isEmpty()) {
                 try {
                     int id = Integer.valueOf(fieldValue);
-                    Produto produto = produtoJdbc.findById(id);
+                    IProduto produto = ProdutoService.getInstance().findById(id);
                     if (produto == null) {
                         throw new IllegalArgumentException("Produto não encontrado.");
                     }
@@ -560,8 +558,8 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
         return txtCodigo.getText().isEmpty();
     }
 
-    private Produto getProduto() {
-        Produto produto = null;
+    private IProduto getProduto() {
+        IProduto produto = null;
 
         try {
             int id = 0;

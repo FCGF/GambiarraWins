@@ -1,11 +1,17 @@
+package br.org.catolicasc.vendas.service;
 
-package br.org.catolicasc.service;
-
+import br.org.catolicasc.vendas.data.IDao;
 import br.org.catolicasc.vendas.model.IEntity;
 import java.util.List;
 
+/**
+ *
+ * @author flavio.kannenberg
+ * @param <T>
+ * @param <K>
+ */
+public interface IService<T extends IEntity, K extends IDao<T>> {
 
-public interface IService<T extends IEntity> {
     int countAll() throws Exception;
 
     void create(T o) throws Exception;
@@ -19,4 +25,5 @@ public interface IService<T extends IEntity> {
     T findById(int id) throws Exception;
 
     void update(T o) throws Exception;
+
 }

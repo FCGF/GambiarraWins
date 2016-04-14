@@ -1,5 +1,6 @@
 package br.org.catolicasc.vendas.data;
 
+import br.org.catolicasc.vendas.model.IProduto;
 import br.org.catolicasc.vendas.model.Produto;
 import br.org.catolicasc.vendas.model.UnidadePeso;
 import java.sql.PreparedStatement;
@@ -11,7 +12,7 @@ import java.util.List;
  *
  * @author fkannenberg
  */
-public final class ProdutoJdbc extends AbstractJdbcDao<Produto> {
+public final class ProdutoJdbc extends AbstractJdbcDao<IProduto> implements IProdutoJdbc {
 
     private final String findByNameSql = "SELECT * FROM PRODUTO WHERE (nome LIKE ?)";
 
@@ -28,13 +29,14 @@ public final class ProdutoJdbc extends AbstractJdbcDao<Produto> {
 
     }
 
-    public List<Produto> findByNome(String nome) throws SQLException, Exception {
+    @Override
+    public List<IProduto> findByNome(String nome) throws SQLException, Exception {
         return executeQuery(findByNameSql, nome);
     }
 
     @Override
-    protected Produto fillObject(ResultSet rs) throws SQLException {
-        Produto o = new Produto();
+    protected IProduto fillObject(ResultSet rs) throws SQLException {
+        IProduto o = new Produto();
         o.setId(rs.getInt("ID"));
         o.setNome(rs.getString("NOME"));
         o.setPeso(rs.getDouble("PESO"));
@@ -44,9 +46,9 @@ public final class ProdutoJdbc extends AbstractJdbcDao<Produto> {
     }
 
     @Override
-    protected int bindingObject(PreparedStatement stmt, Produto o) throws SQLException {
+    protected int bindingObject(PreparedStatement stmt, IProduto o) throws SQLException {
         int parameterIndex = 1;
-        Produto p = (Produto) o;
+        IProduto p = (Produto) o;
         stmt.setString(parameterIndex++, p.getNome());
         stmt.setDouble(parameterIndex++, p.getPeso());
         stmt.setDouble(parameterIndex++, p.getQtdeDisponivel());

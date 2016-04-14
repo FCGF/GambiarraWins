@@ -7,6 +7,7 @@ import java.util.List;
 /**
  *
  * @author fkannenberg
+ * @param <T>
  */
 public interface IDao<T extends IEntity> {
 
