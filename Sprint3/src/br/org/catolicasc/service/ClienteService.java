@@ -5,6 +5,7 @@
  */
 package br.org.catolicasc.service;
 
+import br.org.catolicasc.vendas.data.IDao;
 import br.org.catolicasc.vendas.model.Cliente;
 
 /**
@@ -13,6 +14,17 @@ import br.org.catolicasc.vendas.model.Cliente;
  */
 public class ClienteService extends AbstractService<Cliente> implements IService<Cliente>{
     
+    private static ClienteService instance;
     
+    private ClienteService(){
+        super();
+    }
     
+    public ClienteService(IDao<Cliente> dao){
+        super(dao);
+    }
+    
+    public static ClienteService getInstant(){
+        return new ClienteService();
+    }
 }
