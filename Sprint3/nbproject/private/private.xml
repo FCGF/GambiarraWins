@@ -3,16 +3,5 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group/>
-        <group name="GambiarraWins">
-            <file>file:/C:/Users/Cyber/Documents/Projetos/GambiarraWins/Sprint3/src/br/org/catolicasc/vendas/model/IPessoa.java</file>
-            <file>file:/C:/Users/Cyber/Documents/Projetos/GambiarraWins/Sprint3/src/br/org/catolicasc/vendas/model/Produto.java</file>
-            <file>file:/C:/Users/Cyber/Documents/Projetos/GambiarraWins/Sprint3/src/br/org/catolicasc/vendas/swing/ProdutoForm.java</file>
-            <file>file:/C:/Users/Cyber/Documents/Projetos/GambiarraWins/Sprint3/src/br/org/catolicasc/service/ClienteService.java</file>
-            <file>file:/C:/Users/Cyber/Documents/Projetos/GambiarraWins/Sprint3/src/br/org/catolicasc/service/AbstractService.java</file>
-            <file>file:/C:/Users/Cyber/Documents/Projetos/GambiarraWins/Sprint3/src/br/org/catolicasc/service/ProdutoService.java</file>
-            <file>file:/C:/Users/Cyber/Documents/Projetos/GambiarraWins/Sprint3/src/br/org/catolicasc/vendas/data/ClienteJdbc.java</file>
-            <file>file:/C:/Users/Cyber/Documents/Projetos/GambiarraWins/Sprint3/src/br/org/catolicasc/vendas/model/IProduto.java</file>
-            <file>file:/C:/Users/Cyber/Documents/Projetos/GambiarraWins/Sprint3/src/br/org/catolicasc/vendas/model/Pessoa.java</file>
-        </group>
     </open-files>
 </project-private>
