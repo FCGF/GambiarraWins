@@ -62,5 +62,14 @@ public abstract class AbstractService<T extends IEntity, K extends IDao<T>> impl
     public void update(T o) throws Exception {
         dao.update(o);
     }
+    
+    @Override
+    public void createOrUpdate(T o) throws Exception{
+        if(o.isTransient()){
+            create(o);
+        }else{
+            update(o);
+        }
+    }
 
 }

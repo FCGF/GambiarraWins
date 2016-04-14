@@ -28,4 +28,9 @@ public abstract class Entity implements Serializable, IEntity {
     public final void setId(int id) {
         this.id = id;
     }
+    
+    @Override
+    public boolean isTransient(){
+        return  getId() == 0;
+    }
 }

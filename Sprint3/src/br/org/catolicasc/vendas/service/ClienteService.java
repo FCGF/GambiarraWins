@@ -4,6 +4,8 @@ import br.org.catolicasc.vendas.data.ClienteJdbc;
 import br.org.catolicasc.vendas.data.ConnectionManager;
 import br.org.catolicasc.vendas.data.IClienteJdbc;
 import br.org.catolicasc.vendas.model.ICliente;
+import java.sql.SQLException;
+import java.util.List;
 
 /**
  *
@@ -28,6 +30,11 @@ public class ClienteService extends AbstractService<ICliente, IClienteJdbc>
                     new ClienteJdbc(ConnectionManager.getInstance()));
         }
         return instance;
+    }
+
+    @Override
+    public List<ICliente> findByNome(String nome) throws SQLException, Exception {
+        return getDao().findByNome(nome);
     }
 
 }

@@ -25,5 +25,7 @@ public interface IService<T extends IEntity, K extends IDao<T>> {
     T findById(int id) throws Exception;
 
     void update(T o) throws Exception;
+    
+    void createOrUpdate(T o) throws Exception;
 
 }
