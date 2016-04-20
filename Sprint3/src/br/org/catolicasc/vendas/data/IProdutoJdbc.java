@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author Cyber
  */
 public interface IProdutoJdbc extends IDao<IProduto> {
 

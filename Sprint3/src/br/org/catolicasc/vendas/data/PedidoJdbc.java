@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author fkannenberg
+ * @author Cyber
  */
 public final class PedidoJdbc extends AbstractJdbcDao<Pedido> {
 

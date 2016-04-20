@@ -4,7 +4,7 @@ import br.org.catolicasc.vendas.model.UnidadePeso;
 
 /**
  *
- * @author fkannenberg
+ * @author GambiarraWins
  */
 public final class ConversorPeso {
 

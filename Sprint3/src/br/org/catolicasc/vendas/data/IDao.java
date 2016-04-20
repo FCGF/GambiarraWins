@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  *
- * @author fkannenberg
+ * @author Cyber
  * @param <T>
  */
 public interface IDao<T extends IEntity> {

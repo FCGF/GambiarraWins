@@ -8,7 +8,9 @@ package br.org.catolicasc.vendas.swing;
 import br.org.catolicasc.vendas.model.IProduto;
 import br.org.catolicasc.vendas.model.Produto;
 import br.org.catolicasc.vendas.model.UnidadePeso;
+import br.org.catolicasc.vendas.service.IProdutoService;
 import br.org.catolicasc.vendas.service.ProdutoService;
+import br.org.catolicasc.vendas.service.ServiceLocator;
 import br.org.catolicasc.vendas.util.KeyValue;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -20,15 +22,22 @@ import javax.swing.text.NumberFormatter;
 
 /**
  *
- * @author fkannenberg
+ * @author Cyber
  */
 public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
 
     /**
      * Creates new form ProdutoForm
      */
+    
+    private  final IProdutoService service;
     public ProdutoForm() {
+        service = (IProdutoService) ServiceLocator.getService("produtoService");
         initComponents();
+    }
+    
+    private IProdutoService getService(){
+        return  service;
     }
 
     /**
@@ -420,8 +429,10 @@ public class ProdutoForm extends javax.swing.JFrame implements ActionListener {
             try {
                 produto = getProduto();
 
-                ProdutoService.getInstance().createOrUpdate(produto);
 
+                getService().createOrUpdate(produto);
+                
+                
                 txtCodigo.setText(produto.getId() + "");
                 btnExcluir.setEnabled(true);
             } catch (Exception ex) {

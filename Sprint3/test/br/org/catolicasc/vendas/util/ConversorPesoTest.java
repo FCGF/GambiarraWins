@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author fkannenberg
+ * @author GambiarraWins
  */
 public class ConversorPesoTest {
 

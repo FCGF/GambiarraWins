@@ -2,7 +2,7 @@ package br.org.catolicasc.vendas.model;
 
 /**
  *
- * @author fkannenberg
+ * @author Cyber
  */
 public interface IEntity {
 

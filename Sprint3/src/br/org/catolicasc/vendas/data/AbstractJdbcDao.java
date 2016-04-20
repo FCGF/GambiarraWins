@@ -14,7 +14,7 @@ import org.apache.logging.log4j.Logger;
 
 /**
  *
- * @author fkannenberg
+ * @author Cyber
  * @param <T>
  */
 public abstract class AbstractJdbcDao<T extends IEntity> implements IDao<T> {

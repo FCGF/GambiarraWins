@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author fkannenberg
+ * @author Cyber
  */
 public final class ProdutoJdbc extends AbstractJdbcDao<IProduto> implements IProdutoJdbc {
 

@@ -2,7 +2,7 @@ package br.org.catolicasc.vendas.model;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author Cyber
  */
 public interface ICliente extends IPessoa {
 

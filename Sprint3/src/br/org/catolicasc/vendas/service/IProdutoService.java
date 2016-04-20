@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author GambiarraWins
  */
 public interface IProdutoService extends IService<IProduto, IProdutoJdbc> {
 

@@ -6,7 +6,7 @@ import javax.swing.DefaultComboBoxModel;
 
 /**
  *
- * @author fkannenberg
+ * @author GambiarraWins
  */
 public final class ComboHelper {
 

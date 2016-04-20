@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author GambiarraWins
  */
 public class ClienteService extends AbstractService<ICliente, IClienteJdbc>
         implements IClienteService {

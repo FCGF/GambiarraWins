@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author fkannenberg
+ * @author Cyber
  */
 public abstract class Entity implements Serializable, IEntity {
 

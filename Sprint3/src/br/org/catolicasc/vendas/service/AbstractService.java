@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author GambiarraWins
  * @param <T>
  * @param <K>
  */

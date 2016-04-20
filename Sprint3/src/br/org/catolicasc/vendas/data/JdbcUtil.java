@@ -9,7 +9,7 @@ import org.apache.logging.log4j.Logger;
 
 /**
  *
- * @author fkannenberg
+ * @author Cyber
  */
 public final class JdbcUtil {
 

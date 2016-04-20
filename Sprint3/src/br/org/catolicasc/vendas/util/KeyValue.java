@@ -2,7 +2,7 @@ package br.org.catolicasc.vendas.util;
 
 /**
  *
- * @author fkannenberg
+ * @author GambiarraWins
  */
 public class KeyValue {
 

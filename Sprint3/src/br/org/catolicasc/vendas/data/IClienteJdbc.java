@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author Cyber
  */
 public interface IClienteJdbc extends IDao<ICliente> {
 

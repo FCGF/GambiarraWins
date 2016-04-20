@@ -13,7 +13,7 @@ import org.junit.Test;
 
 /**
  *
- * @author fkannenberg
+ * @author GambiarraWins
  */
 public class ClienteJdbcTest {
 

@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author fkannenberg
+ * @author Cyber
  */
 public final class ClienteJdbc extends AbstractJdbcDao<ICliente> implements IClienteJdbc {
 

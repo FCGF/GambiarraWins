@@ -5,7 +5,7 @@ import java.util.Date;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author Cyber
  */
 public interface IPessoa extends IEntity {
 

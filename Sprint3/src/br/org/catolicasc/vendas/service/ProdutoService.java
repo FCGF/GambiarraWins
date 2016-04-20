@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author GambiarraWins
  */
 public class ProdutoService
         extends AbstractService<IProduto, IProdutoJdbc>

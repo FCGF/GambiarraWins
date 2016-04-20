@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  *
- * @author flavio.kannenberg
+ * @author GambiarraWins
  */
 public interface IClienteService extends IService<ICliente, IClienteJdbc> {
      List<ICliente> findByNome(String nome) throws SQLException, Exception;
