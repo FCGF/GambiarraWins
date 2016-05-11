@@ -45,4 +45,23 @@ public class Dados {
         this.valorC = valorC;
     }
 
+    @Override
+    public boolean equals(Object obj) {
+        boolean igual = false;
+        if (obj instanceof Dados) {
+            Dados dados = (Dados) obj;
+            igual = this.getValorA() == dados.getValorA() && this.getValorB() == dados.getValorB() && this.getValorC() == dados.getValorC();
+        }
+        return igual;
+    }
+
+    @Override
+    public int hashCode() {
+        int hash = 7;
+        hash = 31 * hash + this.valorA;
+        hash = 31 * hash + this.valorB;
+        hash = 31 * hash + this.valorC;
+        return hash;
+    }
+
 }

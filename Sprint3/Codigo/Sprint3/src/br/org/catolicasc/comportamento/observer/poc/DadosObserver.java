@@ -18,4 +18,7 @@ public abstract class DadosObserver implements IObserver {
         dados = subject.getState();
     }
 
+    public Dados getDados() {
+        return dados;
+    }
 }
