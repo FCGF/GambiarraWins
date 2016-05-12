@@ -1,4 +1,4 @@
-package br.org.catolicasc.criacao.builder.vendaCarros;
+package br.org.catolicasc.criacao.builder.vendacarros;
 
 public class Cliente {
 	public static void main(String[] args) {

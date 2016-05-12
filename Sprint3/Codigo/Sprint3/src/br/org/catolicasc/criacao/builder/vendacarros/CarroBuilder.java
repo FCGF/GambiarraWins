@@ -1,4 +1,4 @@
-package br.org.catolicasc.criacao.builder.vendaCarros;
+package br.org.catolicasc.criacao.builder.vendacarros;
 
 public abstract class CarroBuilder {
 	protected CarroProduct carro = new CarroProduct();
