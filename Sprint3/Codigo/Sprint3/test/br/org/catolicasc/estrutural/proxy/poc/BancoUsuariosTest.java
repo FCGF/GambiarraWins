@@ -18,24 +18,7 @@ import static org.junit.Assert.*;
  */
 public class BancoUsuariosTest {
     
-    public BancoUsuariosTest() {
-    }
-    
-    @BeforeClass
-    public static void setUpClass() {
-    }
-    
-    @AfterClass
-    public static void tearDownClass() {
-    }
-    
-    @Before
-    public void setUp() {
-    }
-    
-    @After
-    public void tearDown() {
-    }
+  
 
     /**
      * Test of getNumeroDeUsuarios method, of class BancoUsuarios.
@@ -44,11 +27,9 @@ public class BancoUsuariosTest {
     public void testGetNumeroDeUsuarios() {
         System.out.println("getNumeroDeUsuarios");
         BancoUsuarios instance = new BancoUsuarios();
-        String expResult = "";
         String result = instance.getNumeroDeUsuarios();
-        assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
+        assertNotNull(result);
+        assertFalse(result.isEmpty());
     }
 
     /**
@@ -58,11 +39,9 @@ public class BancoUsuariosTest {
     public void testGetUsuariosConectados() {
         System.out.println("getUsuariosConectados");
         BancoUsuarios instance = new BancoUsuarios();
-        String expResult = "";
         String result = instance.getUsuariosConectados();
-        assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
+        assertNotNull(result);
+        assertFalse(result.isEmpty());
     }
     
 }
