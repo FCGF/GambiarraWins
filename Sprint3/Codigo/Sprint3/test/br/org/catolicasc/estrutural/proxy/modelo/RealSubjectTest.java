@@ -28,8 +28,8 @@ public class RealSubjectTest {
     }
 
     public void testArquivoRealErrado() {
-        System.out.println("ArquivoRealErrado");
         String real = "Nome";
+        System.out.println("ArquivoRealErrado");
         RealSubject instance = new RealSubject("Gambiarra");
         String result = instance.arquivoReal(real);
         assertEquals(real, result);
