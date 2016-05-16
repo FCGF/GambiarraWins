@@ -27,12 +27,13 @@ public class RealSubjectTest {
 
     }
 
+    @Test
     public void testArquivoRealErrado() {
         String real = "Nome";
         System.out.println("ArquivoRealErrado");
         RealSubject instance = new RealSubject("Gambiarra");
         String result = instance.arquivoReal(real);
-        assertEquals(real, result);
+        assertNull(result);
 
     }
 
