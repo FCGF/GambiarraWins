@@ -4,8 +4,6 @@ public class Proxy extends RealSubject implements Arquivo {
 
     private RealSubject arquivoReal;
 
-    private String nomeDoArquivo;
-
     public Proxy(String nomeDoArquivo) {
         super(nomeDoArquivo);
     }

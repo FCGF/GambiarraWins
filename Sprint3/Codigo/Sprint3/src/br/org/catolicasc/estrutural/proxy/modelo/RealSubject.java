@@ -2,9 +2,10 @@ package br.org.catolicasc.estrutural.proxy.modelo;
 
 public class RealSubject implements Arquivo {
 
-    private  String nomeDoArquivo;
+    protected String nomeDoArquivo;
 
-   public  RealSubject(String nomeDoArquivo) {
+    public RealSubject(String nomeDoArquivo) {
+
         this.nomeDoArquivo = nomeDoArquivo;
     }
 
