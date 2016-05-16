@@ -36,6 +36,6 @@ public class BancoProxy extends BancoUsuarios{
     }
  
     private boolean temPermissaoDeAcesso() {
-        return usuario == "admin" && senha == "admin";
+        return "admin".equals(usuario) && "admin".equals(senha);
     }
 }
