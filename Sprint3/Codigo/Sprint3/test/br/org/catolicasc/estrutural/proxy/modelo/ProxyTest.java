@@ -35,6 +35,7 @@ public class ProxyTest {
     public void testGetArquivos() {
         System.out.println("getArquivos");
         Proxy instance = new Proxy("Nome");
+        instance.getArquivos();
         String nomeDoArquivo = "Nome";
         assertNotNull(nomeDoArquivo);
         assertFalse(nomeDoArquivo.isEmpty());
