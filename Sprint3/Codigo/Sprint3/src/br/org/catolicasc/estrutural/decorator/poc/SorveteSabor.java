@@ -8,7 +8,7 @@ public abstract class SorveteSabor extends Sorvete{
 
     public SorveteSabor(Sorvete sorvete) {
         this.sorvete = sorvete;
-        sorvete.setNome("");
+        //this.setNome(sorvete.getNome());//Para que o nome nao fique null
     }
 
     public Sorvete getSorvete() {

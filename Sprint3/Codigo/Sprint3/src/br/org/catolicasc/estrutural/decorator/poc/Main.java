@@ -16,16 +16,15 @@ public class Main {
         
         retornaInformacoes(sorvete);
         
-        sorvete = new Creme(new Morango(new Chocolate(sorvete)));
-        
-        
+        sorvete = new Creme(sorvete);
+
         retornaInformacoes(sorvete);
         
         
     }
     public static void retornaInformacoes(Sorvete sorvete){
         System.out.println(sorvete.getNome() + " - " + 
-                sorvete.getQntBolas() + " preco: R$" + 
+                sorvete.getQntBolas() + " bolas -  preco: R$" + 
                 sorvete.getPreco());
     }
     
