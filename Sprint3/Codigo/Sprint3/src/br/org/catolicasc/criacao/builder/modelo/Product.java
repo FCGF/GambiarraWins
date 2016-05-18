@@ -2,5 +2,15 @@ package br.org.catolicasc.criacao.builder.modelo;
 
 public class Product {
 
-    public String part;
+    private String part;
+
+    public String getPart() {
+        return part;
+    }
+
+    public void setPart(String part) {
+        this.part = part;
+    }
+    
+    
 }

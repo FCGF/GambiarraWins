@@ -6,9 +6,5 @@ public abstract class Builder {
 
     public abstract void BuildPart();
 
-    public Product getObject() {
-        return object;
-    }
-;
-
+    
 }

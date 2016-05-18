@@ -5,10 +5,6 @@
  */
 package br.org.catolicasc.criacao.builder.poc;
 
-import org.junit.After;
-import org.junit.AfterClass;
-import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
@@ -22,11 +18,14 @@ public class ConcessionariaDirectorTest {
     @Test
     public void testConstruirCarro() {
         System.out.println("construirCarro");
-        ConcessionariaDirector instance = null;
-        instance.construirCarro();
+        CarroBuilder fiat = new FiatBuilder();
+        ConcessionariaDirector fiatTest = new ConcessionariaDirector(fiat);
+        fiatTest.construirCarro();
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
     }
+    
+    
 
     /**
      * Test of getCarro method, of class ConcessionariaDirector.
