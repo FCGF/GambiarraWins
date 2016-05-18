@@ -2,10 +2,15 @@ package br.org.catolicasc.criacao.builder.modelo;
 
 public class Director {
 
-	private Builder builder;
+    protected Builder object;
 
-	public void Construct() {
+    public Director(Builder object) {
+        this.object = object;
+    }
 
-	}
+    public void Construct() {
+
+        object.BuildPart();
+    }
 
 }

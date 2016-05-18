@@ -1,9 +1,14 @@
 package br.org.catolicasc.criacao.builder.modelo;
 
-public class Builder {
+public abstract class Builder {
 
-	public void BuildPart() {
+    protected Product object = new Product();
 
-	}
+    public abstract void BuildPart();
+
+    public Product getObject() {
+        return object;
+    }
+;
 
 }

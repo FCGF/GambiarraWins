@@ -2,12 +2,15 @@ package br.org.catolicasc.criacao.builder.modelo;
 
 public class ConcreteBuilder extends Builder {
 
-	public void BuildPart() {
+    @Override
+    public void BuildPart() {
 
-	}
+        object.part = "part";
+    }
 
-	public void GetResult() {
+    public Product GetResult() {
 
-	}
+        return object;
+    }
 
 }
