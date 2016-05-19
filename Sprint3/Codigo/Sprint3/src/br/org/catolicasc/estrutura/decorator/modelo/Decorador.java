@@ -9,6 +9,7 @@ public abstract class Decorador extends Componente {
     }
 
     public void operacao() {
+        componente.operacao();
         System.out.println("Operacao!");
     }
 
