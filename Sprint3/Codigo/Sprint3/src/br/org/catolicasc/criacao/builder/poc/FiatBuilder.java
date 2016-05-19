@@ -4,27 +4,27 @@ public class FiatBuilder extends CarroBuilder {
 
 	@Override
 	public void buildPreco() {
-		carro.preco = 1000.00;
+		carro.setPreco(1000.00);
 	}
 
 	@Override
 	public void buildDscMotor() {
-		carro.dscMotor = "1.0 Flex";
+		carro.setDscMotor("1.0 Flex");
 	}
 
 	@Override
 	public void buildAnoDeFabricacao() {
-		carro.anoDeFabricacao = 2010;
+		carro.setAnoDeFabricacao(2010);
 	}
 
 	@Override
 	public void buildModelo() {
-		carro.modelo = "Palio";
+		carro.setModelo("Palio");
 	}
 
 	@Override
 	public void buildMontadora() {
-		carro.montadora = "Fiat";
+		carro.setMontadora("Fiat");
 	}
 
 }

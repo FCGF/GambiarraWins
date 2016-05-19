@@ -7,17 +7,17 @@ public class Cliente {
 	 
 	    concessionaria.construirCarro();
 	    CarroProduct carro = concessionaria.getCarro();
-	    System.out.println("Carro: " + carro.modelo + "/" + carro.montadora
-	            + "\nAno: " + carro.anoDeFabricacao + "\nMotor: "
-	            + carro.dscMotor + "\nValor: " + carro.preco);
+	    System.out.println("Carro: " + carro.getModelo() + "/" + carro.getMontadora()
+	            + "\nAno: " + carro.getAnoDeFabricacao() + "\nMotor: "
+	            + carro.getDscMotor() + "\nValor: " + carro.getPreco());
 	 
 	    System.out.println();
 	 
 	    concessionaria = new ConcessionariaDirector(new VolksBuilder());
 	    concessionaria.construirCarro();
 	    carro = concessionaria.getCarro();
-	    System.out.println("Carro: " + carro.modelo + "/" + carro.montadora
-	            + "\nAno: " + carro.anoDeFabricacao + "\nMotor: "
-	            + carro.dscMotor + "\nValor: " + carro.preco);
+	    System.out.println("Carro: " + carro.getModelo()+ "/" + carro.getMontadora()
+	            + "\nAno: " + carro.getAnoDeFabricacao() + "\nMotor: "
+	            + carro.getDscMotor() + "\nValor: " + carro.getPreco());
 	}
 }

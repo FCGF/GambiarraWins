@@ -13,32 +13,33 @@ import static org.junit.Assert.*;
  * @author Cyber
  */
 public class ConcessionariaDirectorTest {
-    
-    
+
     @Test
-    public void testConstruirCarro() {
+    public void testConstruirCarroFiat() {
         System.out.println("construirCarro");
         CarroBuilder fiat = new FiatBuilder();
         ConcessionariaDirector fiatTest = new ConcessionariaDirector(fiat);
         fiatTest.construirCarro();
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
-    
-    
+        assertEquals(1000.00, fiat.getCarro().getPreco(), 0);
+        assertEquals("1.0 Flex", fiat.getCarro().getDscMotor());
+        assertEquals(2010, fiat.getCarro().getAnoDeFabricacao());
+        assertEquals("Palio", fiat.getCarro().getModelo());
+        assertEquals("Fiat", fiat.getCarro().getMontadora());
 
-    /**
-     * Test of getCarro method, of class ConcessionariaDirector.
-     */
-    @Test
-    public void testGetCarro() {
-        System.out.println("getCarro");
-        ConcessionariaDirector instance = null;
-        CarroProduct expResult = null;
-        CarroProduct result = instance.getCarro();
-        assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
     }
-    
+
+    @Test
+    public void testConstruirCarroVolks() {
+        System.out.println("construirCarro");
+        CarroBuilder volk = new VolksBuilder();
+        ConcessionariaDirector volkTest = new ConcessionariaDirector(volk);
+        volkTest.construirCarro();
+        assertEquals(1000.00, volk.getCarro().getPreco(), 0);
+        assertEquals("1.0 Flex", volk.getCarro().getDscMotor());
+        assertEquals(2010, volk.getCarro().getAnoDeFabricacao());
+        assertEquals("Gol", volk.getCarro().getModelo());
+        assertEquals("VolskWagem", volk.getCarro().getMontadora());
+
+    }
+
 }

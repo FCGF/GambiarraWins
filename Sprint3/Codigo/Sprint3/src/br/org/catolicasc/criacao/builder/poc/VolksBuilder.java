@@ -1,29 +1,30 @@
 package br.org.catolicasc.criacao.builder.poc;
 
 public class VolksBuilder extends CarroBuilder {
-		@Override
-		public void buildPreco() {
-			carro.preco = 1000.00;
-		}
 
-		@Override
-		public void buildDscMotor() {
-			carro.dscMotor = "1.0 Flex";
-		}
+    @Override
+    public void buildPreco() {
+        carro.setPreco(1000.00);
+    }
 
-		@Override
-		public void buildAnoDeFabricacao() {
-			carro.anoDeFabricacao = 2010;
-		}
+    @Override
+    public void buildDscMotor() {
+        carro.setDscMotor("1.0 Flex");
+    }
 
-		@Override
-		public void buildModelo() {
-			carro.modelo = "Gol";
-		}
+    @Override
+    public void buildAnoDeFabricacao() {
+        carro.setAnoDeFabricacao(2010);
+    }
 
-		@Override
-		public void buildMontadora() {
-			carro.montadora = "VolskWagem";
-		}
+    @Override
+    public void buildModelo() {
+        carro.setModelo("Gol");
+    }
+
+    @Override
+    public void buildMontadora() {
+        carro.setMontadora("VolskWagem");
+    }
 
 }
